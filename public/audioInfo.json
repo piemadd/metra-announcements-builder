@@ -1,3 +1,5966 @@
 {
-  "files": {}
+  "1000": {
+    "text": "Zero",
+    "alternatives": []
+  },
+  "1001": {
+    "text": "One",
+    "alternatives": []
+  },
+  "1002": {
+    "text": "Two",
+    "alternatives": []
+  },
+  "1003": {
+    "text": "Three",
+    "alternatives": []
+  },
+  "1004": {
+    "text": "Four",
+    "alternatives": []
+  },
+  "1005": {
+    "text": "Five",
+    "alternatives": []
+  },
+  "1006": {
+    "text": "Six",
+    "alternatives": []
+  },
+  "1007": {
+    "text": "Seven",
+    "alternatives": []
+  },
+  "1008": {
+    "text": "Eight",
+    "alternatives": []
+  },
+  "1009": {
+    "text": "Nine",
+    "alternatives": []
+  },
+  "1010": {
+    "text": "Ten",
+    "alternatives": []
+  },
+  "1011": {
+    "text": "Eleven",
+    "alternatives": []
+  },
+  "1012": {
+    "text": "Twelve",
+    "alternatives": []
+  },
+  "1013": {
+    "text": "Thirteen",
+    "alternatives": []
+  },
+  "1014": {
+    "text": "Fourteen",
+    "alternatives": []
+  },
+  "1015": {
+    "text": "Fifteen",
+    "alternatives": []
+  },
+  "1016": {
+    "text": "Sixteen",
+    "alternatives": []
+  },
+  "1017": {
+    "text": "Seventeen",
+    "alternatives": []
+  },
+  "1018": {
+    "text": "Eighteen",
+    "alternatives": []
+  },
+  "1019": {
+    "text": "Nineteen",
+    "alternatives": []
+  },
+  "1020": {
+    "text": "Twenty",
+    "alternatives": []
+  },
+  "1021": {
+    "text": "Thirty",
+    "alternatives": []
+  },
+  "1022": {
+    "text": "Fourty",
+    "alternatives": []
+  },
+  "1023": {
+    "text": "Fifty",
+    "alternatives": []
+  },
+  "1024": {
+    "text": "Sixty",
+    "alternatives": []
+  },
+  "1025": {
+    "text": "Seventy",
+    "alternatives": []
+  },
+  "1026": {
+    "text": "Eighty",
+    "alternatives": []
+  },
+  "1027": {
+    "text": "Ninety",
+    "alternatives": []
+  },
+  "1028": {
+    "text": "Hundred",
+    "alternatives": []
+  },
+  "1029": {
+    "text": "Thousand",
+    "alternatives": []
+  },
+  "1030": {
+    "text": "Oh",
+    "alternatives": []
+  },
+  "1031": {
+    "text": "First",
+    "alternatives": []
+  },
+  "1032": {
+    "text": "Second",
+    "alternatives": []
+  },
+  "1033": {
+    "text": "Third",
+    "alternatives": []
+  },
+  "1034": {
+    "text": "Fourth",
+    "alternatives": []
+  },
+  "1035": {
+    "text": "Fifth",
+    "alternatives": []
+  },
+  "1036": {
+    "text": "Sixth",
+    "alternatives": []
+  },
+  "1037": {
+    "text": "Seventh",
+    "alternatives": []
+  },
+  "1038": {
+    "text": "Eighth",
+    "alternatives": []
+  },
+  "1039": {
+    "text": "Ninth",
+    "alternatives": []
+  },
+  "1040": {
+    "text": "Tenth",
+    "alternatives": []
+  },
+  "1041": {
+    "text": "Eleventh",
+    "alternatives": []
+  },
+  "1042": {
+    "text": "Twelfth",
+    "alternatives": []
+  },
+  "1043": {
+    "text": "Thirteenth",
+    "alternatives": []
+  },
+  "1044": {
+    "text": "Fourteenth",
+    "alternatives": []
+  },
+  "1045": {
+    "text": "Fifteenth",
+    "alternatives": []
+  },
+  "1046": {
+    "text": "Sixteenth",
+    "alternatives": []
+  },
+  "1047": {
+    "text": "Seventeenth",
+    "alternatives": []
+  },
+  "1048": {
+    "text": "Eighteenth",
+    "alternatives": []
+  },
+  "1049": {
+    "text": "Nineteenth",
+    "alternatives": []
+  },
+  "1050": {
+    "text": "Twentieth",
+    "alternatives": []
+  },
+  "1051": {
+    "text": "Twenty First",
+    "alternatives": []
+  },
+  "1052": {
+    "text": "Twenty Second",
+    "alternatives": []
+  },
+  "1053": {
+    "text": "Twenty Third",
+    "alternatives": []
+  },
+  "1054": {
+    "text": "Twenty Fourth",
+    "alternatives": []
+  },
+  "1055": {
+    "text": "Twenty Fifth",
+    "alternatives": []
+  },
+  "1056": {
+    "text": "Twenty Sixth",
+    "alternatives": []
+  },
+  "1057": {
+    "text": "Twenty Seventh",
+    "alternatives": []
+  },
+  "1058": {
+    "text": "Twenty Eighth",
+    "alternatives": []
+  },
+  "1059": {
+    "text": "Twenty Ninth",
+    "alternatives": []
+  },
+  "1060": {
+    "text": "Thirtieth",
+    "alternatives": []
+  },
+  "1061": {
+    "text": "Thirty First",
+    "alternatives": []
+  },
+  "1062": {
+    "text": "January",
+    "alternatives": []
+  },
+  "1063": {
+    "text": "February",
+    "alternatives": []
+  },
+  "1064": {
+    "text": "March",
+    "alternatives": []
+  },
+  "1065": {
+    "text": "April",
+    "alternatives": []
+  },
+  "1066": {
+    "text": "May",
+    "alternatives": []
+  },
+  "1067": {
+    "text": "June",
+    "alternatives": []
+  },
+  "1068": {
+    "text": "July",
+    "alternatives": []
+  },
+  "1069": {
+    "text": "August",
+    "alternatives": []
+  },
+  "1070": {
+    "text": "September",
+    "alternatives": []
+  },
+  "1071": {
+    "text": "October",
+    "alternatives": []
+  },
+  "1072": {
+    "text": "November",
+    "alternatives": []
+  },
+  "1073": {
+    "text": "December",
+    "alternatives": []
+  },
+  "1074": {
+    "text": "Monday",
+    "alternatives": []
+  },
+  "1075": {
+    "text": "Tuesday",
+    "alternatives": []
+  },
+  "1076": {
+    "text": "Wednesday",
+    "alternatives": []
+  },
+  "1077": {
+    "text": "Thursday",
+    "alternatives": []
+  },
+  "1078": {
+    "text": "Friday",
+    "alternatives": []
+  },
+  "1079": {
+    "text": "Saturday",
+    "alternatives": []
+  },
+  "1080": {
+    "text": "Sunday",
+    "alternatives": []
+  },
+  "1081": {
+    "text": "Northbound",
+    "alternatives": []
+  },
+  "1082": {
+    "text": "Southbound",
+    "alternatives": []
+  },
+  "1083": {
+    "text": "Eastbound",
+    "alternatives": []
+  },
+  "1084": {
+    "text": "Westbound",
+    "alternatives": []
+  },
+  "1085": {
+    "text": "Inbound",
+    "alternatives": []
+  },
+  "1086": {
+    "text": "Outbound",
+    "alternatives": []
+  },
+  "1087": {
+    "text": "North",
+    "alternatives": []
+  },
+  "1088": {
+    "text": "South",
+    "alternatives": []
+  },
+  "1089": {
+    "text": "East",
+    "alternatives": []
+  },
+  "1090": {
+    "text": "West",
+    "alternatives": []
+  },
+  "1091": {
+    "text": "Right",
+    "alternatives": []
+  },
+  "1092": {
+    "text": "Left",
+    "alternatives": []
+  },
+  "1093": {
+    "text": "Upper",
+    "alternatives": []
+  },
+  "1094": {
+    "text": "Lower",
+    "alternatives": []
+  },
+  "1095": {
+    "text": "Front",
+    "alternatives": []
+  },
+  "1096": {
+    "text": "Rear",
+    "alternatives": []
+  },
+  "1097": {
+    "text": "Center",
+    "alternatives": []
+  },
+  "1100": {
+    "text": "Fourth of July",
+    "alternatives": []
+  },
+  "1101": {
+    "text": "Good Friday",
+    "alternatives": []
+  },
+  "1102": {
+    "text": "President's Day",
+    "alternatives": []
+  },
+  "1103": {
+    "text": "Christmas Day",
+    "alternatives": []
+  },
+  "1104": {
+    "text": "Christmas Eve",
+    "alternatives": []
+  },
+  "1105": {
+    "text": "Memorial Day",
+    "alternatives": []
+  },
+  "1106": {
+    "text": "Martin Luther King Day",
+    "alternatives": []
+  },
+  "1107": {
+    "text": "New Year's Day",
+    "alternatives": []
+  },
+  "1108": {
+    "text": "New Year's Eve",
+    "alternatives": []
+  },
+  "1109": {
+    "text": "Thanksgiving Day",
+    "alternatives": []
+  },
+  "1110": {
+    "text": "Labor Day",
+    "alternatives": []
+  },
+  "1111": {
+    "text": "A Holiday",
+    "alternatives": []
+  },
+  "1112": {
+    "text": "The Holiday",
+    "alternatives": []
+  },
+  "1113": {
+    "text": "Holiday",
+    "alternatives": []
+  },
+  "1120": {
+    "text": "This",
+    "alternatives": []
+  },
+  "1121": {
+    "text": "Train",
+    "alternatives": []
+  },
+  "1122": {
+    "text": "This Train",
+    "alternatives": []
+  },
+  "1123": {
+    "text": "Our Train",
+    "alternatives": []
+  },
+  "1124": {
+    "text": "A Train Ahead",
+    "alternatives": []
+  },
+  "1125": {
+    "text": "The Disabled Train",
+    "alternatives": []
+  },
+  "1126": {
+    "text": "The Disabled Freight Train",
+    "alternatives": []
+  },
+  "1127": {
+    "text": "An Inbound Train",
+    "alternatives": []
+  },
+  "1128": {
+    "text": "An Outbound Train",
+    "alternatives": []
+  },
+  "1129": {
+    "text": "Not Carrying Passengers",
+    "alternatives": []
+  },
+  "1130": {
+    "text": "The Doors On The",
+    "alternatives": []
+  },
+  "1131": {
+    "text": "A Bus At",
+    "alternatives": []
+  },
+  "1132": {
+    "text": "By A Following Train",
+    "alternatives": []
+  },
+  "1133": {
+    "text": "A Train Ahead Of Us",
+    "alternatives": []
+  },
+  "1140": {
+    "text": "AM",
+    "alternatives": []
+  },
+  "1141": {
+    "text": "PM",
+    "alternatives": []
+  },
+  "1142": {
+    "text": "O'Clock",
+    "alternatives": []
+  },
+  "1143": {
+    "text": "Rush Hour",
+    "alternatives": []
+  },
+  "1144": {
+    "text": "Non Rush Hour",
+    "alternatives": []
+  },
+  "1145": {
+    "text": "Mid-day",
+    "alternatives": []
+  },
+  "1146": {
+    "text": "Evening",
+    "alternatives": []
+  },
+  "1147": {
+    "text": "Morning",
+    "alternatives": []
+  },
+  "1148": {
+    "text": "Dollar",
+    "alternatives": []
+  },
+  "1149": {
+    "text": "Dollars",
+    "alternatives": []
+  },
+  "1150": {
+    "text": "Cent",
+    "alternatives": []
+  },
+  "1151": {
+    "text": "Cents",
+    "alternatives": []
+  },
+  "1152": {
+    "text": "To",
+    "alternatives": []
+  },
+  "1153": {
+    "text": "At",
+    "alternatives": []
+  },
+  "1154": {
+    "text": "The",
+    "alternatives": []
+  },
+  "1155": {
+    "text": "And",
+    "alternatives": []
+  },
+  "1156": {
+    "text": "During The",
+    "alternatives": []
+  },
+  "1157": {
+    "text": "Due To The",
+    "alternatives": []
+  },
+  "1158": {
+    "text": "Will Pick Up And Drop Off Customers At",
+    "alternatives": []
+  },
+  "1159": {
+    "text": "A Bus Has Been Requested To Report To",
+    "alternatives": []
+  },
+  "1161": {
+    "text": "On",
+    "alternatives": []
+  },
+  "1162": {
+    "text": "Effective",
+    "alternatives": []
+  },
+  "1164": {
+    "text": "Tomorrow",
+    "alternatives": []
+  },
+  "1165": {
+    "text": "Yesterday",
+    "alternatives": []
+  },
+  "1166": {
+    "text": "Next",
+    "alternatives": []
+  },
+  "1167": {
+    "text": "Previous",
+    "alternatives": []
+  },
+  "1168": {
+    "text": "Behind",
+    "alternatives": []
+  },
+  "1169": {
+    "text": "Ahead",
+    "alternatives": []
+  },
+  "1170": {
+    "text": "A",
+    "alternatives": []
+  },
+  "1171": {
+    "text": "The",
+    "alternatives": []
+  },
+  "1172": {
+    "text": "Or",
+    "alternatives": []
+  },
+  "1173": {
+    "text": "But",
+    "alternatives": []
+  },
+  "1174": {
+    "text": "A",
+    "alternatives": []
+  },
+  "1175": {
+    "text": "The",
+    "alternatives": []
+  },
+  "1200": {
+    "text": "Please Have Your Tickets Ready For Collection",
+    "alternatives": []
+  },
+  "1201": {
+    "text": "If you need to ride beyond the zone limits of your ticket you must notify a member of the train crew, Or A",
+    "alternatives": []
+  },
+  "1202": {
+    "text": "Penalty will be charged, in addition to the incremental fare of",
+    "alternatives": []
+  },
+  "1203": {
+    "text": "For the first zone",
+    "alternatives": []
+  },
+  "1204": {
+    "text": "For Each Additional Zone",
+    "alternatives": []
+  },
+  "1205": {
+    "text": "If You Need To Ride Beyond The Zone Limits Of Your Ticket, You Must Nofity The Train Crew, Or A Penalty Will Be Charged In Addition To The Incremental Fare Of",
+    "alternatives": []
+  },
+  "1210": {
+    "text": "We Have An Urgent Situation Which Requires The Evacuation Of This Train",
+    "alternatives": []
+  },
+  "1211": {
+    "text": "Please Discontinue the use of all cellular phones and computers at this time",
+    "alternatives": []
+  },
+  "1212": {
+    "text": "When you exit the train, take all of your newspapers, paper and plastic bags as well as other personal belongings with you",
+    "alternatives": []
+  },
+  "1213": {
+    "text": "Do not leave anything you brought with you on the train behind",
+    "alternatives": []
+  },
+  "1214": {
+    "text": "After exiting, please move away from the train",
+    "alternatives": []
+  },
+  "1218": {
+    "text": "Monthly tickets will not be accepted after today",
+    "alternatives": []
+  },
+  "1219": {
+    "text": "Monthly tickets will only be accepted until noon tomorrow",
+    "alternatives": []
+  },
+  "1220": {
+    "text": "Monthly tickets will not be accepted after tomorrow",
+    "alternatives": []
+  },
+  "1221": {
+    "text": "Monthly tickets will only be accepted until noon today",
+    "alternatives": []
+  },
+  "1222": {
+    "text": "Please remember to purchase your new ticket before boarding",
+    "alternatives": []
+  },
+  "1223": {
+    "text": "Weekend tickets are available from the ticket agents and on board personnel",
+    "alternatives": []
+  },
+  "1224": {
+    "text": "The ticket allows unlimited travel during the entire weekend for which it is purchased",
+    "alternatives": []
+  },
+  "1225": {
+    "text": "We are offering special event tickets valid on all trains operating on",
+    "alternatives": []
+  },
+  "1226": {
+    "text": "Tickets can be purchased from any ticket agent, or on board personnel",
+    "alternatives": []
+  },
+  "1227": {
+    "text": "Valid on all trains departing or arriving Chicago after",
+    "alternatives": []
+  },
+  "1228": {
+    "text": "Our tickets will be honored by",
+    "alternatives": []
+  },
+  "1229": {
+    "text": "We will honor south shore tickets",
+    "alternatives": []
+  },
+  "1230": {
+    "text": "We are offering special event tickets",
+    "alternatives": []
+  },
+  "1231": {
+    "text": "There will be no alcoholic beverages or glass containers allowed on the trains after",
+    "alternatives": []
+  },
+  "1232": {
+    "text": "No alcohol beverages or glass containers will be allowed on any metra train",
+    "alternatives": []
+  },
+  "1233": {
+    "text": "The ticket office hours at",
+    "alternatives": []
+  },
+  "1234": {
+    "text": "Have been extended to provide you an opportunity to purchase your tickets",
+    "alternatives": []
+  },
+  "1235": {
+    "text": "Please note that we will be operating on a modified schedule on",
+    "alternatives": []
+  },
+  "1236": {
+    "text": "Copies of the modified schedule are available at ticket offices and downtown terminals",
+    "alternatives": []
+  },
+  "1237": {
+    "text": "This train will not operate on",
+    "alternatives": []
+  },
+  "1238": {
+    "text": "Special schedules are available at",
+    "alternatives": []
+  },
+  "1250": {
+    "text": "May I have your attention please",
+    "alternatives": []
+  },
+  "1251": {
+    "text": "As as reminder",
+    "alternatives": []
+  },
+  "1252": {
+    "text": "Your attention please",
+    "alternatives": []
+  },
+  "1253": {
+    "text": "Based on information we have received",
+    "alternatives": []
+  },
+  "1254": {
+    "text": "We have been informed that",
+    "alternatives": []
+  },
+  "1255": {
+    "text": "At this time",
+    "alternatives": []
+  },
+  "1256": {
+    "text": "As a result",
+    "alternatives": []
+  },
+  "1257": {
+    "text": "For your convenience",
+    "alternatives": []
+  },
+  "1258": {
+    "text": "Thank you for your patience and understanding",
+    "alternatives": []
+  },
+  "1259": {
+    "text": "Thank you for riding Metra today",
+    "alternatives": []
+  },
+  "1260": {
+    "text": "Thank you for riding Metra today. Please take your personal belonings and watch your step while exiting the train. To avoid paying a surchage, please purchagese your ticket prior to boarding on your next trip with Metra. Mobile tickets can be purchased with the Ventra app. Available today for iPhone and Android",
+    "alternatives": []
+  },
+  "1262": {
+    "text": "Minutes",
+    "alternatives": []
+  },
+  "1263": {
+    "text": "Minutes Late",
+    "alternatives": []
+  },
+  "1264": {
+    "text": "Minutes Early",
+    "alternatives": []
+  },
+  "1265": {
+    "text": "Platform",
+    "alternatives": []
+  },
+  "1266": {
+    "text": "Minute Late",
+    "alternatives": []
+  },
+  "1267": {
+    "text": "This is",
+    "alternatives": []
+  },
+  "1268": {
+    "text": "Making stops at",
+    "alternatives": []
+  },
+  "1269": {
+    "text": "The next stop will be",
+    "alternatives": []
+  },
+  "1270": {
+    "text": "Now approaching",
+    "alternatives": []
+  },
+  "1271": {
+    "text": "Departure to",
+    "alternatives": []
+  },
+  "1272": {
+    "text": "Train number",
+    "alternatives": []
+  },
+  "1273": {
+    "text": "Scheduled to depart",
+    "alternatives": []
+  },
+  "1274": {
+    "text": "With intermediate stops",
+    "alternatives": []
+  },
+  "1275": {
+    "text": "The scheduled stops of this train have been changed",
+    "alternatives": []
+  },
+  "1276": {
+    "text": "This train will now run express",
+    "alternatives": []
+  },
+  "1277": {
+    "text": "Will not operate",
+    "alternatives": []
+  },
+  "1278": {
+    "text": "Will pick up and drop off passengers at",
+    "alternatives": []
+  },
+  "1279": {
+    "text": "Passengers will board a waiting train which will take them to their final destination",
+    "alternatives": []
+  },
+  "1280": {
+    "text": "Later than the normal arrival time",
+    "alternatives": []
+  },
+  "1281": {
+    "text": "Is now moving",
+    "alternatives": []
+  },
+  "1282": {
+    "text": "Minute early",
+    "alternatives": []
+  },
+  "1283": {
+    "text": "The scheduled stops of this train have been changed",
+    "alternatives": []
+  },
+  "1284": {
+    "text": "If you wish to make a flag stop, you must notify a trainmen, or the train will not stop",
+    "alternatives": []
+  },
+  "1285": {
+    "text": "We are now arriving at",
+    "alternatives": []
+  },
+  "1286": {
+    "text": "Schedued to depart at",
+    "alternatives": []
+  },
+  "1287": {
+    "text": "This train will make flag stops at",
+    "alternatives": []
+  },
+  "1288": {
+    "text": "Upon request",
+    "alternatives": []
+  },
+  "1289": {
+    "text": "We are uncertain on how long we will be delayed at this time, but will update you as soon as information becomes available",
+    "alternatives": []
+  },
+  "1290": {
+    "text": "[Three Dings]",
+    "alternatives": []
+  },
+  "1300": {
+    "text": "Please take a few moments to familiarize yourself with the locations of the emergency exits",
+    "alternatives": []
+  },
+  "1301": {
+    "text": "All cars equipped with emergency lighting which will engage automatically if a power loss occurs",
+    "alternatives": []
+  },
+  "1302": {
+    "text": "Each half of the car is equipped with at least two emergency exit windows",
+    "alternatives": []
+  },
+  "1303": {
+    "text": "Opening instructions are on each window",
+    "alternatives": []
+  },
+  "1304": {
+    "text": "Please remember to take your tickets, and personal belongings",
+    "alternatives": []
+  },
+  "1305": {
+    "text": "We would like to take this opportunity to wish you and your families a safe and happy holiday",
+    "alternatives": []
+  },
+  "1307": {
+    "text": "Late slips are available at the ticket office and the information area",
+    "alternatives": []
+  },
+  "1308": {
+    "text": "Please use caution when detraining",
+    "alternatives": []
+  },
+  "1309": {
+    "text": "City and state law prohibits the crossing of tracks in the downtown terminal",
+    "alternatives": []
+  },
+  "1310": {
+    "text": "Take the safe course and stay behind the yellow safety lines when exiting the station",
+    "alternatives": []
+  },
+  "1311": {
+    "text": "Please watch your step while exiting the train",
+    "alternatives": []
+  },
+  "1312": {
+    "text": "We apologize for our late arrival",
+    "alternatives": []
+  },
+  "1313": {
+    "text": "Late slips are available at the ticket office and the information area",
+    "alternatives": []
+  },
+  "1314": {
+    "text": "If you are traveling on a reduced fare ticket, or plan to purchase a reduced fare from on board personnel, please have your RTA reduced fare card or student identification available",
+    "alternatives": []
+  },
+  "1315": {
+    "text": "Due to extreme weather conditions, please use caution when detraining",
+    "alternatives": []
+  },
+  "1316": {
+    "text": "If you are travelling with small children, you are invited to use the customer service car",
+    "alternatives": []
+  },
+  "1317": {
+    "text": "For their safety, please keep your children seated with you at all times",
+    "alternatives": []
+  },
+  "1318": {
+    "text": "For those customers exiting at",
+    "alternatives": []
+  },
+  "1319": {
+    "text": "Please note the construction underway",
+    "alternatives": []
+  },
+  "1320": {
+    "text": "Do not enter the areas or walkways which have been removed from service",
+    "alternatives": []
+  },
+  "1321": {
+    "text": "And watch the gap between the car and platform",
+    "alternatives": []
+  },
+  "1322": {
+    "text": "Those customers who need to purchase a ticket for their return home should do so when detraining to avoid large crowds prior to train departure",
+    "alternatives": []
+  },
+  "1323": {
+    "text": "Smoking is prohibited on any train at any time",
+    "alternatives": []
+  },
+  "1324": {
+    "text": "A new schedule will be in effect on",
+    "alternatives": []
+  },
+  "1325": {
+    "text": "New schedules are available at all downtown terminals and ticket agencies",
+    "alternatives": []
+  },
+  "1326": {
+    "text": "Copies of our special schedule for",
+    "alternatives": []
+  },
+  "1327": {
+    "text": "Copies of the commmuter newsletter: On the BiLevel",
+    "alternatives": []
+  },
+  "1328": {
+    "text": "Copies of our special schedule",
+    "alternatives": []
+  },
+  "1329": {
+    "text": "Copies of a special bulletin",
+    "alternatives": []
+  },
+  "1330": {
+    "text": "Regarding potential service disruption",
+    "alternatives": []
+  },
+  "1331": {
+    "text": "Regarding the recent service disruption",
+    "alternatives": []
+  },
+  "1332": {
+    "text": "Are now available in the plastic holders, near the exit doors",
+    "alternatives": []
+  },
+  "1333": {
+    "text": "Please do not block the door or aisles, making it difficult for passengers to exit or enter at their stations",
+    "alternatives": []
+  },
+  "1334": {
+    "text": "Passengers are asked not to stand until the train has departed the station prior to the destination",
+    "alternatives": []
+  },
+  "1335": {
+    "text": "Please refrain from placing your feet on seats, modesty panels, or upper deck railings",
+    "alternatives": []
+  },
+  "1336": {
+    "text": "No seats are reserved",
+    "alternatives": []
+  },
+  "1337": {
+    "text": "Please do not inconvenience other customers by holding seats, or blocking seats with parcels or coats",
+    "alternatives": []
+  },
+  "1338": {
+    "text": "Any passenger may occupy seats designated as priority seating, but may be required to relocate by the on board staff",
+    "alternatives": []
+  },
+  "1339": {
+    "text": "Please be considerate of others when using cellular phones, and keep volume on music headsets low",
+    "alternatives": []
+  },
+  "1340": {
+    "text": "Please help us maintain a clean environment, by not leaving litter on trains, in stations, or on stairwells and walkways",
+    "alternatives": []
+  },
+  "1341": {
+    "text": "Passengers whose conduct is disorderly or unsafe will not be allowed on the train",
+    "alternatives": []
+  },
+  "1342": {
+    "text": "Obscene language, or that which is disturbing to other passengers, is prohibited",
+    "alternatives": []
+  },
+  "1343": {
+    "text": "Would like to take this opportunity to wish you and your families a safe and happy holiday",
+    "alternatives": []
+  },
+  "1344": {
+    "text": "Conductor",
+    "alternatives": []
+  },
+  "1345": {
+    "text": "Conductor on",
+    "alternatives": []
+  },
+  "1346": {
+    "text": "Please contact the operations center at extension",
+    "alternatives": []
+  },
+  "1347": {
+    "text": "Please contact extension",
+    "alternatives": []
+  },
+  "1348": {
+    "text": "As soon as possible",
+    "alternatives": []
+  },
+  "1349": {
+    "text": "Conductor, please report to the customer service car",
+    "alternatives": []
+  },
+  "1350": {
+    "text": "Due to a Great Hall Event at Chicago Union Station, access into and out of the station will be restricted after",
+    "alternatives": []
+  },
+  "1351": {
+    "text": "Please follow signs which have been posted for your information",
+    "alternatives": []
+  },
+  "1352": {
+    "text": "Our tickets will be honored by",
+    "alternatives": []
+  },
+  "1353": {
+    "text": "The train will now run express from",
+    "alternatives": []
+  },
+  "1354": {
+    "text": "It will not be stopping at",
+    "alternatives": []
+  },
+  "1355": {
+    "text": "Passengers for these stations should detrain at",
+    "alternatives": []
+  },
+  "1356": {
+    "text": "To transfer to the next available train to your destination",
+    "alternatives": []
+  },
+  "1357": {
+    "text": "This train is operating approximately",
+    "alternatives": []
+  },
+  "1358": {
+    "text": "We will provide updated information, as it becomes available",
+    "alternatives": []
+  },
+  "1359": {
+    "text": "We will be pushed to",
+    "alternatives": []
+  },
+  "1360": {
+    "text": "May delay our train enroute",
+    "alternatives": []
+  },
+  "1361": {
+    "text": "Will affect the operation of our train",
+    "alternatives": []
+  },
+  "1362": {
+    "text": "We are anticipating a delay of approximately",
+    "alternatives": []
+  },
+  "1363": {
+    "text": "We are being delayed due to a mechanical failure on",
+    "alternatives": []
+  },
+  "1364": {
+    "text": "We are working on the problem, and will do everything possible to minimize the delay",
+    "alternatives": []
+  },
+  "1365": {
+    "text": "We continue to be delayed due to a mechanical failure",
+    "alternatives": []
+  },
+  "1366": {
+    "text": "We will keep you informed as information becomes available",
+    "alternatives": []
+  },
+  "1367": {
+    "text": "The mechanical problem has now been repaired",
+    "alternatives": []
+  },
+  "1368": {
+    "text": "We are currently operating approximately",
+    "alternatives": []
+  },
+  "1369": {
+    "text": "Those of you who wish to transfer to a local train, can do so at",
+    "alternatives": []
+  },
+  "1370": {
+    "text": "We apologizefor any inconvenience",
+    "alternatives": []
+  },
+  "1371": {
+    "text": "It appears the mechanical problems cannot be fixed at this time",
+    "alternatives": []
+  },
+  "1372": {
+    "text": "We will be transferring passengers to another train, as soon as it arrives",
+    "alternatives": []
+  },
+  "1373": {
+    "text": "Please listen for further instructions from your on board personnel",
+    "alternatives": []
+  },
+  "1374": {
+    "text": "We will be pulling up behind the disabled train, and pushing it",
+    "alternatives": []
+  },
+  "1375": {
+    "text": "We will update you with regard to total anticipated delay shortly",
+    "alternatives": []
+  },
+  "1376": {
+    "text": "A spare locomotive has been sent to assist",
+    "alternatives": []
+  },
+  "1377": {
+    "text": "We hope to be moving in approximately",
+    "alternatives": []
+  },
+  "1378": {
+    "text": "Has been involved in a street crossing accident",
+    "alternatives": []
+  },
+  "1379": {
+    "text": "We are awaiting further information with regard to anticipated length of delays",
+    "alternatives": []
+  },
+  "1380": {
+    "text": "The crossing accident has blocked all tracks in the immediate vicinity of the accident",
+    "alternatives": []
+  },
+  "1381": {
+    "text": "Emergency crews are enroute",
+    "alternatives": []
+  },
+  "1382": {
+    "text": "But are unable to estimate the amount of time until more information becomes available",
+    "alternatives": []
+  },
+  "1383": {
+    "text": "All traffic has been halted in the vicinity of the accident, until further notice",
+    "alternatives": []
+  },
+  "1384": {
+    "text": "We incur a delay of up to",
+    "alternatives": []
+  },
+  "1385": {
+    "text": "We have received an update regarding the accident",
+    "alternatives": []
+  },
+  "1386": {
+    "text": "Police and emergency crews are at the site",
+    "alternatives": []
+  },
+  "1387": {
+    "text": "We are awaiting further information to update our anticipated length of delay",
+    "alternatives": []
+  },
+  "1388": {
+    "text": "We anticipate that the train may arrive at its final destination approximately",
+    "alternatives": []
+  },
+  "1389": {
+    "text": "Train traffic will be allowed to proceed through the accident scene at a reduced speed",
+    "alternatives": []
+  },
+  "1390": {
+    "text": "We should be moving shortly and will update you as to our overall anticipated delay in a few moments",
+    "alternatives": []
+  },
+  "1391": {
+    "text": "The accident scene has been cleared and we should be moving shortly",
+    "alternatives": []
+  },
+  "1392": {
+    "text": "We anticipate we will arrive at our final destination approximately",
+    "alternatives": []
+  },
+  "1393": {
+    "text": "Thank you for your patience",
+    "alternatives": []
+  },
+  "1394": {
+    "text": "We are currently experiencing signal problems in the vicinity of",
+    "alternatives": []
+  },
+  "1395": {
+    "text": "We may experience a delay of approximately",
+    "alternatives": []
+  },
+  "1396": {
+    "text": "The signal problems will require us to operate at a reduced speed through the area",
+    "alternatives": []
+  },
+  "1397": {
+    "text": "We are currently experiencing a switch problem in the vicinity of",
+    "alternatives": []
+  },
+  "1398": {
+    "text": "We are experiencing some delay, but will keep you advised",
+    "alternatives": []
+  },
+  "1399": {
+    "text": "The switch problems will require us to operate at a reduced speed through the area",
+    "alternatives": []
+  },
+  "1401": {
+    "text": "We have a passenger on board our train who requires medical assistance",
+    "alternatives": []
+  },
+  "1402": {
+    "text": "We have requested emergency response personnel",
+    "alternatives": []
+  },
+  "1403": {
+    "text": "If there is anyone on board with medical training, who can assist this passenger, please see a member of the on board crew",
+    "alternatives": []
+  },
+  "1404": {
+    "text": "We will advice you as soon as soon as we can resume our trip",
+    "alternatives": []
+  },
+  "1405": {
+    "text": "Will not be on the platform, and will not open",
+    "alternatives": []
+  },
+  "1406": {
+    "text": "Will not open",
+    "alternatives": []
+  },
+  "1407": {
+    "text": "We will be underway as soon as possible, and will update you as more information is available",
+    "alternatives": []
+  },
+  "1408": {
+    "text": "We are now ready to proceed, and will be underway shortly",
+    "alternatives": []
+  },
+  "1409": {
+    "text": "We are operating",
+    "alternatives": []
+  },
+  "1410": {
+    "text": "But will update you as soon as information becomes available",
+    "alternatives": []
+  },
+  "1411": {
+    "text": "The train ahead is now moving, and we will proceed as well",
+    "alternatives": []
+  },
+  "1412": {
+    "text": "Due to scheduled construction work, this train may arrive at its final destination up to",
+    "alternatives": []
+  },
+  "1413": {
+    "text": "This train will not operate between",
+    "alternatives": []
+  },
+  "1414": {
+    "text": "We anticipate that we will incur a delay",
+    "alternatives": []
+  },
+  "1416": {
+    "text": "And is awaiting the arrival of emergency response personnel for",
+    "alternatives": []
+  },
+  "1417": {
+    "text": "Has stopped",
+    "alternatives": []
+  },
+  "1418": {
+    "text": "Passengers for other destinations should detrain immediately",
+    "alternatives": []
+  },
+  "1419": {
+    "text": "We apologize for the inconvenience",
+    "alternatives": []
+  },
+  "1420": {
+    "text": "We apologize for the delay",
+    "alternatives": []
+  },
+  "1421": {
+    "text": "We will update you",
+    "alternatives": []
+  },
+  "1422": {
+    "text": "Based on information we are receiving at this time",
+    "alternatives": []
+  },
+  "1423": {
+    "text": "Trash cans are located on all cars",
+    "alternatives": []
+  },
+  "1424": {
+    "text": "May we have your attention please",
+    "alternatives": []
+  },
+  "1425": {
+    "text": "Please remember that no alcoholic beverages or glass bottles will be allowed on board the trains",
+    "alternatives": []
+  },
+  "1426": {
+    "text": "Please remember that after 7PM, no alcoholic beverages or glass bottles will be allowed on board the trains, and there is no smoking at any time",
+    "alternatives": []
+  },
+  "1427": {
+    "text": "The following is an emergency announcement",
+    "alternatives": []
+  },
+  "1428": {
+    "text": "Due to a potentially serious situation, this train must be evacuated immediately. Take all possessions and exit at the nearest vestible. Once away from the train, follow the instructions of the conductor",
+    "alternatives": []
+  },
+  "1429": {
+    "text": "Located at the",
+    "alternatives": []
+  },
+  "1430": {
+    "text": "Station is temporarily out of service",
+    "alternatives": []
+  },
+  "1431": {
+    "text": "Please be considerate of your fellow passengers and use cell phones only in the vestible",
+    "alternatives": []
+  },
+  "1432": {
+    "text": "To avoid the $2 surcharge for buying a ticket on the train, please purchase your ticket in advance from the ticket agents",
+    "alternatives": []
+  },
+  "1440": {
+    "text": "In order to ensure maximum available capacity during this period",
+    "alternatives": []
+  },
+  "1441": {
+    "text": "We have dedicated our forces to critical maintenance",
+    "alternatives": []
+  },
+  "1442": {
+    "text": "For that reason some wash rooms are out of service",
+    "alternatives": []
+  },
+  "1443": {
+    "text": "A washroom is available in the ADA car or cab control car",
+    "alternatives": []
+  },
+  "1446": {
+    "text": "Metra would like to remind you that if you are planning to attend the",
+    "alternatives": []
+  },
+  "1447": {
+    "text": "Passengers attending",
+    "alternatives": []
+  },
+  "1448": {
+    "text": "Should detrain here",
+    "alternatives": []
+  },
+  "1449": {
+    "text": "Detrain here for",
+    "alternatives": []
+  },
+  "1450": {
+    "text": "The festivities",
+    "alternatives": []
+  },
+  "1451": {
+    "text": "The conference",
+    "alternatives": []
+  },
+  "1452": {
+    "text": "The international housewares show",
+    "alternatives": []
+  },
+  "1453": {
+    "text": "The Chicago Auto Show",
+    "alternatives": []
+  },
+  "1454": {
+    "text": "The ProMat show",
+    "alternatives": []
+  },
+  "1455": {
+    "text": "The National Manufacturing Show",
+    "alternatives": []
+  },
+  "1456": {
+    "text": "The Book Expo Show",
+    "alternatives": []
+  },
+  "1457": {
+    "text": "The International Hardware Show",
+    "alternatives": []
+  },
+  "1458": {
+    "text": "The Print and Converting Show",
+    "alternatives": []
+  },
+  "1459": {
+    "text": "The FabTech Show",
+    "alternatives": []
+  },
+  "1460": {
+    "text": "The Radiological Society Meeting Show",
+    "alternatives": []
+  },
+  "1461": {
+    "text": "Blues Fest",
+    "alternatives": []
+  },
+  "1462": {
+    "text": "Taste of Chicago",
+    "alternatives": []
+  },
+  "1463": {
+    "text": "Country Music Festival",
+    "alternatives": []
+  },
+  "1464": {
+    "text": "The Nation Night",
+    "alternatives": []
+  },
+  "1465": {
+    "text": "Chicago Air and Water Show",
+    "alternatives": []
+  },
+  "1466": {
+    "text": "Viva Chicago",
+    "alternatives": []
+  },
+  "1467": {
+    "text": "Jazz Festival",
+    "alternatives": []
+  },
+  "1468": {
+    "text": "The Celtic Festival",
+    "alternatives": []
+  },
+  "1469": {
+    "text": "The Columbus Day Parade",
+    "alternatives": []
+  },
+  "1470": {
+    "text": "The Magnificent Mile Festival of Lights",
+    "alternatives": []
+  },
+  "1471": {
+    "text": "The Magnificent Mile Parade of Lights",
+    "alternatives": []
+  },
+  "1472": {
+    "text": "The Jingle Elf Parade",
+    "alternatives": []
+  },
+  "1473": {
+    "text": "The Saint Patrick's Day Parade",
+    "alternatives": []
+  },
+  "1474": {
+    "text": "The Millennium Park",
+    "alternatives": []
+  },
+  "1475": {
+    "text": "The Celtic Festival",
+    "alternatives": []
+  },
+  "1476": {
+    "text": "Please remember that no alcoholic beverages or glass bottles will be allowed on board the train after 7PM",
+    "alternatives": []
+  },
+  "1477": {
+    "text": "Please remember that no alcoholic beverages or glass bottles will be allowed on board the trains, and there is no smoking at any time",
+    "alternatives": []
+  },
+  "1500": {
+    "text": "Due to",
+    "alternatives": []
+  },
+  "1501": {
+    "text": "A grade crossing accident",
+    "alternatives": []
+  },
+  "1502": {
+    "text": "A street crossing accident",
+    "alternatives": []
+  },
+  "1503": {
+    "text": "An accident involving the train",
+    "alternatives": []
+  },
+  "1504": {
+    "text": "An accident not involving the train",
+    "alternatives": []
+  },
+  "1505": {
+    "text": "A bus delay",
+    "alternatives": []
+  },
+  "1506": {
+    "text": "A customer dispute",
+    "alternatives": []
+  },
+  "1507": {
+    "text": "Debris on the tracks ahead",
+    "alternatives": []
+  },
+  "1508": {
+    "text": "A freight derailment",
+    "alternatives": []
+  },
+  "1509": {
+    "text": "A passenger train derailment",
+    "alternatives": []
+  },
+  "1510": {
+    "text": "A medical emergency",
+    "alternatives": []
+  },
+  "1511": {
+    "text": "A sick passenger",
+    "alternatives": []
+  },
+  "1512": {
+    "text": "A police emergency",
+    "alternatives": []
+  },
+  "1513": {
+    "text": "Emergency Track Repairs",
+    "alternatives": []
+  },
+  "1514": {
+    "text": "An electrical wire failure",
+    "alternatives": []
+  },
+  "1515": {
+    "text": "Equipment failure",
+    "alternatives": []
+  },
+  "1516": {
+    "text": "A mechanical failure",
+    "alternatives": []
+  },
+  "1517": {
+    "text": "A signal failure",
+    "alternatives": []
+  },
+  "1518": {
+    "text": "A fire adjacent to the tracks",
+    "alternatives": []
+  },
+  "1519": {
+    "text": "A freight train blocking an upcoming interlocking",
+    "alternatives": []
+  },
+  "1520": {
+    "text": "Freight train interference",
+    "alternatives": []
+  },
+  "1521": {
+    "text": "A stalled freight train",
+    "alternatives": []
+  },
+  "1522": {
+    "text": "A hazardous material condition",
+    "alternatives": []
+  },
+  "1523": {
+    "text": "A holiday parade",
+    "alternatives": []
+  },
+  "1524": {
+    "text": "Heavy passenger loading",
+    "alternatives": []
+  },
+  "1525": {
+    "text": "Late arrival of equipment due to earlier delays",
+    "alternatives": []
+  },
+  "1526": {
+    "text": "Local authorities",
+    "alternatives": []
+  },
+  "1527": {
+    "text": "Local fire department authorities",
+    "alternatives": []
+  },
+  "1528": {
+    "text": "A drawbridge malfunction",
+    "alternatives": []
+  },
+  "1529": {
+    "text": "A signal malfunction",
+    "alternatives": []
+  },
+  "1530": {
+    "text": "A marathon",
+    "alternatives": []
+  },
+  "1531": {
+    "text": "A pedestrian incident",
+    "alternatives": []
+  },
+  "1532": {
+    "text": "Police activity",
+    "alternatives": []
+  },
+  "1533": {
+    "text": "Signal problems",
+    "alternatives": []
+  },
+  "1534": {
+    "text": "Switch problems",
+    "alternatives": []
+  },
+  "1535": {
+    "text": "Accommodating a boarding passenger",
+    "alternatives": []
+  },
+  "1536": {
+    "text": "Required medical assistance",
+    "alternatives": []
+  },
+  "1537": {
+    "text": "Speed restrictions",
+    "alternatives": []
+  },
+  "1538": {
+    "text": "Track construction",
+    "alternatives": []
+  },
+  "1539": {
+    "text": "Track improvement",
+    "alternatives": []
+  },
+  "1540": {
+    "text": "Ongoing track maintenance",
+    "alternatives": []
+  },
+  "1541": {
+    "text": "Track obstruction",
+    "alternatives": []
+  },
+  "1542": {
+    "text": "Waiting on other trains",
+    "alternatives": []
+  },
+  "1543": {
+    "text": "Weather conditions",
+    "alternatives": []
+  },
+  "1544": {
+    "text": "Weather related problems",
+    "alternatives": []
+  },
+  "1545": {
+    "text": "A mechanical malfunction",
+    "alternatives": []
+  },
+  "1546": {
+    "text": "A mechanical problem from an earlier train",
+    "alternatives": []
+  },
+  "1547": {
+    "text": "A vehicle on the tracks",
+    "alternatives": []
+  },
+  "1548": {
+    "text": "An accident involving an earlier train",
+    "alternatives": []
+  },
+  "1549": {
+    "text": "An accident involving another train",
+    "alternatives": []
+  },
+  "1550": {
+    "text": "An accident involving a freight train",
+    "alternatives": []
+  },
+  "1551": {
+    "text": "A street crossing accident, not involving a train",
+    "alternatives": []
+  },
+  "1552": {
+    "text": "Waiting for the shuttle bus",
+    "alternatives": []
+  },
+  "1553": {
+    "text": "Switch malfunction",
+    "alternatives": []
+  },
+  "1554": {
+    "text": "A funeral procession",
+    "alternatives": []
+  },
+  "1555": {
+    "text": "Slow passenger loading",
+    "alternatives": []
+  },
+  "1556": {
+    "text": "Slow passenger loading due to weather conditions",
+    "alternatives": []
+  },
+  "1557": {
+    "text": "Slow passenger unloading due to weather conditions",
+    "alternatives": []
+  },
+  "1558": {
+    "text": "A power outage",
+    "alternatives": []
+  },
+  "1559": {
+    "text": "Following a train ahead",
+    "alternatives": []
+  },
+  "1560": {
+    "text": "Waiting for another train to clear",
+    "alternatives": []
+  },
+  "1569": {
+    "text": "The next stop will be flag stop",
+    "alternatives": []
+  },
+  "1570": {
+    "text": "Now approaching flag stop",
+    "alternatives": []
+  },
+  "1600": {
+    "text": "Chicago Union Station",
+    "alternatives": []
+  },
+  "1601": {
+    "text": "Ogilvie Transportation Center",
+    "alternatives": []
+  },
+  "1602": {
+    "text": "South Shore Station",
+    "alternatives": []
+  },
+  "1603": {
+    "text": "Lasalle Street Station",
+    "alternatives": []
+  },
+  "1605": {
+    "text": "New Lenox",
+    "alternatives": []
+  },
+  "1606": {
+    "text": "Mokena",
+    "alternatives": []
+  },
+  "1607": {
+    "text": "Hickory Creek",
+    "alternatives": []
+  },
+  "1608": {
+    "text": "Tinley Park/80th Avenue",
+    "alternatives": []
+  },
+  "1609": {
+    "text": "Tinley Park/Oak Park Avenue",
+    "alternatives": []
+  },
+  "1610": {
+    "text": "Oak Forest",
+    "alternatives": []
+  },
+  "1611": {
+    "text": "Midlothian",
+    "alternatives": []
+  },
+  "1612": {
+    "text": "Robbins",
+    "alternatives": []
+  },
+  "1613": {
+    "text": "Blue Island/Vemont Street",
+    "alternatives": []
+  },
+  "1614": {
+    "text": "Prarie Street",
+    "alternatives": []
+  },
+  "1615": {
+    "text": "123rd Street",
+    "alternatives": []
+  },
+  "1616": {
+    "text": "119th Street",
+    "alternatives": []
+  },
+  "1617": {
+    "text": "115th Street",
+    "alternatives": []
+  },
+  "1620": {
+    "text": "35th Street/Lou Jones",
+    "alternatives": []
+  },
+  "1621": {
+    "text": "99th Street",
+    "alternatives": []
+  },
+  "1622": {
+    "text": "95th Street",
+    "alternatives": []
+  },
+  "1623": {
+    "text": "91st Street",
+    "alternatives": []
+  },
+  "1624": {
+    "text": "Brainerd",
+    "alternatives": []
+  },
+  "1625": {
+    "text": "Washington Heights/103rd Street",
+    "alternatives": []
+  },
+  "1626": {
+    "text": "Orland Park/179th Street",
+    "alternatives": []
+  },
+  "1627": {
+    "text": "Orland Park/153rd Street",
+    "alternatives": []
+  },
+  "1628": {
+    "text": "Orland Park/143rd Street",
+    "alternatives": []
+  },
+  "1629": {
+    "text": "Palos Park",
+    "alternatives": []
+  },
+  "1630": {
+    "text": "Worth",
+    "alternatives": []
+  },
+  "1631": {
+    "text": "Chicago Ridge",
+    "alternatives": []
+  },
+  "1632": {
+    "text": "Oak Lawn",
+    "alternatives": []
+  },
+  "1633": {
+    "text": "Ashburn",
+    "alternatives": []
+  },
+  "1634": {
+    "text": "Wrightwood",
+    "alternatives": []
+  },
+  "1635": {
+    "text": "Fox Lake",
+    "alternatives": []
+  },
+  "1636": {
+    "text": "Ingleside",
+    "alternatives": []
+  },
+  "1637": {
+    "text": "Long Lake",
+    "alternatives": []
+  },
+  "1638": {
+    "text": "Round Lake",
+    "alternatives": []
+  },
+  "1639": {
+    "text": "Grayslake",
+    "alternatives": []
+  },
+  "1640": {
+    "text": "Libertyville",
+    "alternatives": []
+  },
+  "1641": {
+    "text": "Lake Forest",
+    "alternatives": []
+  },
+  "1642": {
+    "text": "Deerfield",
+    "alternatives": []
+  },
+  "1643": {
+    "text": "Lake Cook Road",
+    "alternatives": []
+  },
+  "1644": {
+    "text": "Northbrook",
+    "alternatives": []
+  },
+  "1645": {
+    "text": "Glenview",
+    "alternatives": []
+  },
+  "1646": {
+    "text": "North Glenview",
+    "alternatives": []
+  },
+  "1647": {
+    "text": "Golf",
+    "alternatives": []
+  },
+  "1648": {
+    "text": "Morton Grove",
+    "alternatives": []
+  },
+  "1649": {
+    "text": "Edgebrook",
+    "alternatives": []
+  },
+  "1650": {
+    "text": "Forest Glen",
+    "alternatives": []
+  },
+  "1651": {
+    "text": "Mayfair",
+    "alternatives": []
+  },
+  "1652": {
+    "text": "Grayland",
+    "alternatives": []
+  },
+  "1653": {
+    "text": "Heely",
+    "alternatives": []
+  },
+  "1654": {
+    "text": "Big Timber Road",
+    "alternatives": []
+  },
+  "1655": {
+    "text": "Elgin",
+    "alternatives": []
+  },
+  "1656": {
+    "text": "National Street",
+    "alternatives": []
+  },
+  "1657": {
+    "text": "Bartlet",
+    "alternatives": []
+  },
+  "1658": {
+    "text": "Hanover Park",
+    "alternatives": []
+  },
+  "1659": {
+    "text": "Schaumburg",
+    "alternatives": []
+  },
+  "1660": {
+    "text": "Roselle",
+    "alternatives": []
+  },
+  "1661": {
+    "text": "Medinah",
+    "alternatives": []
+  },
+  "1662": {
+    "text": "Itasca",
+    "alternatives": []
+  },
+  "1663": {
+    "text": "Wood Dale",
+    "alternatives": []
+  },
+  "1664": {
+    "text": "Bensenville",
+    "alternatives": []
+  },
+  "1665": {
+    "text": "Mannheim",
+    "alternatives": []
+  },
+  "1666": {
+    "text": "Franklin Park",
+    "alternatives": []
+  },
+  "1668": {
+    "text": "Elmwood Park",
+    "alternatives": []
+  },
+  "1669": {
+    "text": "Mont Claire",
+    "alternatives": []
+  },
+  "1670": {
+    "text": "Mars",
+    "alternatives": []
+  },
+  "1671": {
+    "text": "Galewood",
+    "alternatives": []
+  },
+  "1672": {
+    "text": "Hanson Park",
+    "alternatives": []
+  },
+  "1673": {
+    "text": "Cragin",
+    "alternatives": []
+  },
+  "1674": {
+    "text": "Hermosa",
+    "alternatives": []
+  },
+  "1675": {
+    "text": "Western Avenue",
+    "alternatives": []
+  },
+  "1676": {
+    "text": "University Park",
+    "alternatives": []
+  },
+  "1677": {
+    "text": "Richton Park",
+    "alternatives": []
+  },
+  "1678": {
+    "text": "Matteson",
+    "alternatives": []
+  },
+  "1679": {
+    "text": "211th Street",
+    "alternatives": []
+  },
+  "1680": {
+    "text": "Olympia Fields",
+    "alternatives": []
+  },
+  "1681": {
+    "text": "Flossmoor",
+    "alternatives": []
+  },
+  "1682": {
+    "text": "Homewood",
+    "alternatives": []
+  },
+  "1683": {
+    "text": "Calumet",
+    "alternatives": []
+  },
+  "1684": {
+    "text": "Hazel Crest",
+    "alternatives": []
+  },
+  "1685": {
+    "text": "Harvey",
+    "alternatives": []
+  },
+  "1686": {
+    "text": "147th/Sibley",
+    "alternatives": []
+  },
+  "1687": {
+    "text": "Ivanhoe",
+    "alternatives": []
+  },
+  "1688": {
+    "text": "Riverdale",
+    "alternatives": []
+  },
+  "1689": {
+    "text": "Kensington/115th Street",
+    "alternatives": []
+  },
+  "1690": {
+    "text": "111th Street",
+    "alternatives": []
+  },
+  "1691": {
+    "text": "107th Street",
+    "alternatives": []
+  },
+  "1692": {
+    "text": "103rd Street",
+    "alternatives": []
+  },
+  "1693": {
+    "text": "87th Street",
+    "alternatives": []
+  },
+  "1694": {
+    "text": "83rd Street",
+    "alternatives": []
+  },
+  "1695": {
+    "text": "79th Street",
+    "alternatives": []
+  },
+  "1696": {
+    "text": "75th Street",
+    "alternatives": []
+  },
+  "1697": {
+    "text": "63rd Street",
+    "alternatives": []
+  },
+  "1698": {
+    "text": "59th Street/University of Chicago",
+    "alternatives": []
+  },
+  "1699": {
+    "text": "55th/56th/57th Street",
+    "alternatives": []
+  },
+  "1700": {
+    "text": "53rd Street/Hyde Park",
+    "alternatives": []
+  },
+  "1701": {
+    "text": "47th Street",
+    "alternatives": []
+  },
+  "1702": {
+    "text": "27th Street",
+    "alternatives": []
+  },
+  "1703": {
+    "text": "23rd Street/McCormick Place",
+    "alternatives": []
+  },
+  "1704": {
+    "text": "18th Street",
+    "alternatives": []
+  },
+  "1705": {
+    "text": "12th Street/Roosevelt Road",
+    "alternatives": []
+  },
+  "1706": {
+    "text": "Van Buren Street",
+    "alternatives": []
+  },
+  "1707": {
+    "text": "Randolph/South Water Street",
+    "alternatives": []
+  },
+  "1708": {
+    "text": "93rd Street/South Chicago",
+    "alternatives": []
+  },
+  "1709": {
+    "text": "87th Street/South Chicago",
+    "alternatives": []
+  },
+  "1710": {
+    "text": "83rd Street/South Chicago",
+    "alternatives": []
+  },
+  "1711": {
+    "text": "Cheltenham",
+    "alternatives": []
+  },
+  "1712": {
+    "text": "Windsor Park",
+    "alternatives": []
+  },
+  "1713": {
+    "text": "South Shore",
+    "alternatives": []
+  },
+  "1714": {
+    "text": "Bryn Mawr",
+    "alternatives": []
+  },
+  "1715": {
+    "text": "Stony Island",
+    "alternatives": []
+  },
+  "1716": {
+    "text": "Blue Island",
+    "alternatives": []
+  },
+  "1717": {
+    "text": "Burr Oak",
+    "alternatives": []
+  },
+  "1718": {
+    "text": "Ashland Avenue",
+    "alternatives": []
+  },
+  "1719": {
+    "text": "Racine Avenue",
+    "alternatives": []
+  },
+  "1720": {
+    "text": "West Pullman",
+    "alternatives": []
+  },
+  "1721": {
+    "text": "Stewart Ridge",
+    "alternatives": []
+  },
+  "1722": {
+    "text": "State Street",
+    "alternatives": []
+  },
+  "1723": {
+    "text": "Joliet",
+    "alternatives": []
+  },
+  "1724": {
+    "text": "Lockport",
+    "alternatives": []
+  },
+  "1725": {
+    "text": "Lemont",
+    "alternatives": []
+  },
+  "1726": {
+    "text": "Willow Springs",
+    "alternatives": []
+  },
+  "1727": {
+    "text": "Summit",
+    "alternatives": []
+  },
+  "1728": {
+    "text": "Antioch",
+    "alternatives": []
+  },
+  "1729": {
+    "text": "Lake Villa",
+    "alternatives": []
+  },
+  "1730": {
+    "text": "Round Lake Beach",
+    "alternatives": []
+  },
+  "1731": {
+    "text": "Prarie Crossing/Libertyville",
+    "alternatives": []
+  },
+  "1732": {
+    "text": "Mundelein",
+    "alternatives": []
+  },
+  "1733": {
+    "text": "Vernon Hills",
+    "alternatives": []
+  },
+  "1734": {
+    "text": "Prarie View",
+    "alternatives": []
+  },
+  "1735": {
+    "text": "Buffalo Grove",
+    "alternatives": []
+  },
+  "1736": {
+    "text": "Wheeling",
+    "alternatives": []
+  },
+  "1737": {
+    "text": "Prospect Heights",
+    "alternatives": []
+  },
+  "1738": {
+    "text": "O'hare Transfer",
+    "alternatives": []
+  },
+  "1739": {
+    "text": "River Grove",
+    "alternatives": []
+  },
+  "1740": {
+    "text": "Aurora",
+    "alternatives": []
+  },
+  "1741": {
+    "text": "Route 59",
+    "alternatives": []
+  },
+  "1742": {
+    "text": "Naperville",
+    "alternatives": []
+  },
+  "1743": {
+    "text": "Lisle",
+    "alternatives": []
+  },
+  "1744": {
+    "text": "Belmont",
+    "alternatives": []
+  },
+  "1745": {
+    "text": "Downers Grove/Main Street",
+    "alternatives": []
+  },
+  "1746": {
+    "text": "Fairview Avenue",
+    "alternatives": []
+  },
+  "1747": {
+    "text": "Westmont",
+    "alternatives": []
+  },
+  "1748": {
+    "text": "Clarendon Hills",
+    "alternatives": []
+  },
+  "1749": {
+    "text": "West Hinsdale",
+    "alternatives": []
+  },
+  "1750": {
+    "text": "Hinsdale",
+    "alternatives": []
+  },
+  "1751": {
+    "text": "Highlands",
+    "alternatives": []
+  },
+  "1752": {
+    "text": "Western Springs",
+    "alternatives": []
+  },
+  "1753": {
+    "text": "LaGrange/Stone Avenue",
+    "alternatives": []
+  },
+  "1754": {
+    "text": "LaGrange Road",
+    "alternatives": []
+  },
+  "1755": {
+    "text": "Congress Park",
+    "alternatives": []
+  },
+  "1756": {
+    "text": "Brookfield",
+    "alternatives": []
+  },
+  "1757": {
+    "text": "Hollywood",
+    "alternatives": []
+  },
+  "1758": {
+    "text": "Riverside",
+    "alternatives": []
+  },
+  "1759": {
+    "text": "Harlem Avenue",
+    "alternatives": []
+  },
+  "1760": {
+    "text": "Berwyn",
+    "alternatives": []
+  },
+  "1761": {
+    "text": "LaVergne",
+    "alternatives": []
+  },
+  "1762": {
+    "text": "Clyde",
+    "alternatives": []
+  },
+  "1763": {
+    "text": "Cicero",
+    "alternatives": []
+  },
+  "1764": {
+    "text": "Halsted Street",
+    "alternatives": []
+  },
+  "1765": {
+    "text": "Harvard",
+    "alternatives": []
+  },
+  "1766": {
+    "text": "McHenry",
+    "alternatives": []
+  },
+  "1767": {
+    "text": "Woodstock",
+    "alternatives": []
+  },
+  "1768": {
+    "text": "Crystal Lake",
+    "alternatives": []
+  },
+  "1769": {
+    "text": "Cary",
+    "alternatives": []
+  },
+  "1770": {
+    "text": "Fox River Grove",
+    "alternatives": []
+  },
+  "1771": {
+    "text": "Barrington",
+    "alternatives": []
+  },
+  "1772": {
+    "text": "Palatine",
+    "alternatives": []
+  },
+  "1773": {
+    "text": "Arlington Park",
+    "alternatives": []
+  },
+  "1774": {
+    "text": "Arlington Heights",
+    "alternatives": []
+  },
+  "1775": {
+    "text": "Mount Prospect",
+    "alternatives": []
+  },
+  "1776": {
+    "text": "Cumberland",
+    "alternatives": []
+  },
+  "1777": {
+    "text": "Des Plaines",
+    "alternatives": []
+  },
+  "1778": {
+    "text": "Dee Road",
+    "alternatives": []
+  },
+  "1779": {
+    "text": "Park Ridge",
+    "alternatives": []
+  },
+  "1780": {
+    "text": "Edison Park",
+    "alternatives": []
+  },
+  "1781": {
+    "text": "Norwood Park",
+    "alternatives": []
+  },
+  "1782": {
+    "text": "Gladstone Park",
+    "alternatives": []
+  },
+  "1783": {
+    "text": "Jefferson Park",
+    "alternatives": []
+  },
+  "1784": {
+    "text": "Irving Park",
+    "alternatives": []
+  },
+  "1785": {
+    "text": "Clybourn",
+    "alternatives": []
+  },
+  "1786": {
+    "text": "Kenosha",
+    "alternatives": []
+  },
+  "1787": {
+    "text": "Winthrop Harbor",
+    "alternatives": []
+  },
+  "1788": {
+    "text": "Zion",
+    "alternatives": []
+  },
+  "1789": {
+    "text": "Waukeegan",
+    "alternatives": []
+  },
+  "1790": {
+    "text": "North Chicago",
+    "alternatives": []
+  },
+  "1791": {
+    "text": "Great Lakes",
+    "alternatives": []
+  },
+  "1792": {
+    "text": "Lake Bluff",
+    "alternatives": []
+  },
+  "1793": {
+    "text": "Palos Heights",
+    "alternatives": []
+  },
+  "1794": {
+    "text": "Fort Sheridan",
+    "alternatives": []
+  },
+  "1795": {
+    "text": "Highwood",
+    "alternatives": []
+  },
+  "1796": {
+    "text": "Highland Park",
+    "alternatives": []
+  },
+  "1797": {
+    "text": "Ravinia",
+    "alternatives": []
+  },
+  "1798": {
+    "text": "Ravinia Park",
+    "alternatives": []
+  },
+  "1799": {
+    "text": "Braeside",
+    "alternatives": []
+  },
+  "1800": {
+    "text": "Glencoe",
+    "alternatives": []
+  },
+  "1801": {
+    "text": "Hubbard Woods",
+    "alternatives": []
+  },
+  "1802": {
+    "text": "Winnetka",
+    "alternatives": []
+  },
+  "1803": {
+    "text": "Indian Hill",
+    "alternatives": []
+  },
+  "1804": {
+    "text": "Kenilworth",
+    "alternatives": []
+  },
+  "1805": {
+    "text": "Wilmette",
+    "alternatives": []
+  },
+  "1806": {
+    "text": "Evanston/Davis Street",
+    "alternatives": []
+  },
+  "1807": {
+    "text": "Evanston/Main Street",
+    "alternatives": []
+  },
+  "1808": {
+    "text": "Evanston/Central Street",
+    "alternatives": []
+  },
+  "1809": {
+    "text": "Main Street",
+    "alternatives": []
+  },
+  "1810": {
+    "text": "Rogers Park",
+    "alternatives": []
+  },
+  "1811": {
+    "text": "Ravenswood",
+    "alternatives": []
+  },
+  "1813": {
+    "text": "Geneva",
+    "alternatives": []
+  },
+  "1814": {
+    "text": "West Chicago",
+    "alternatives": []
+  },
+  "1815": {
+    "text": "Winfield",
+    "alternatives": []
+  },
+  "1816": {
+    "text": "Wheaton",
+    "alternatives": []
+  },
+  "1817": {
+    "text": "College Avenue",
+    "alternatives": []
+  },
+  "1818": {
+    "text": "Glen Ellyn",
+    "alternatives": []
+  },
+  "1819": {
+    "text": "Lombard",
+    "alternatives": []
+  },
+  "1820": {
+    "text": "Villa Park",
+    "alternatives": []
+  },
+  "1821": {
+    "text": "Elmhurst",
+    "alternatives": []
+  },
+  "1822": {
+    "text": "Berkeley",
+    "alternatives": []
+  },
+  "1823": {
+    "text": "Bellwood",
+    "alternatives": []
+  },
+  "1824": {
+    "text": "Melrose Park",
+    "alternatives": []
+  },
+  "1825": {
+    "text": "Maywood",
+    "alternatives": []
+  },
+  "1826": {
+    "text": "River Forest",
+    "alternatives": []
+  },
+  "1827": {
+    "text": "Oak Park",
+    "alternatives": []
+  },
+  "1828": {
+    "text": "Kedzie",
+    "alternatives": []
+  },
+  "1829": {
+    "text": "Ela Road",
+    "alternatives": []
+  },
+  "1830": {
+    "text": "Elburn",
+    "alternatives": []
+  },
+  "1831": {
+    "text": "La Fox",
+    "alternatives": []
+  },
+  "1832": {
+    "text": "Eola Road",
+    "alternatives": []
+  },
+  "1833": {
+    "text": "BN Tollway",
+    "alternatives": []
+  },
+  "1834": {
+    "text": "Romeoville",
+    "alternatives": []
+  },
+  "1835": {
+    "text": "Laraway Road",
+    "alternatives": []
+  },
+  "1836": {
+    "text": "Manhattan",
+    "alternatives": []
+  },
+  "1837": {
+    "text": "95th Street/Longwood",
+    "alternatives": []
+  },
+  "1838": {
+    "text": "Museum Campus/11th Street",
+    "alternatives": []
+  },
+  "1839": {
+    "text": "Gresham",
+    "alternatives": []
+  },
+  "1840": {
+    "text": "Cicero/Grand",
+    "alternatives": []
+  },
+  "1841": {
+    "text": "Rosemont",
+    "alternatives": []
+  },
+  "1842": {
+    "text": "Schiller Park",
+    "alternatives": []
+  },
+  "1843": {
+    "text": "Pingree Road",
+    "alternatives": []
+  },
+  "1844": {
+    "text": "Millennium Station",
+    "alternatives": []
+  },
+  "1845": {
+    "text": "Romeoville",
+    "alternatives": []
+  },
+  "1900": {
+    "text": "BNSF",
+    "alternatives": []
+  },
+  "1901": {
+    "text": "CTA",
+    "alternatives": []
+  },
+  "1902": {
+    "text": "South Shore",
+    "alternatives": []
+  },
+  "1903": {
+    "text": "NICTD",
+    "alternatives": []
+  },
+  "1904": {
+    "text": "Union Pacific",
+    "alternatives": []
+  },
+  "1905": {
+    "text": "Metra",
+    "alternatives": []
+  },
+  "1906": {
+    "text": "The Burlington Northern Santa Fe and Metra",
+    "alternatives": []
+  },
+  "1907": {
+    "text": "The Union Pacific and Metra",
+    "alternatives": []
+  },
+  "1908": {
+    "text": "BNSF Railway",
+    "alternatives": []
+  },
+  "1910": {
+    "text": "Union Pacific North Line",
+    "alternatives": []
+  },
+  "1911": {
+    "text": "Milwaukee District North Line",
+    "alternatives": []
+  },
+  "1912": {
+    "text": "Union Pacific Northwest Line",
+    "alternatives": []
+  },
+  "1913": {
+    "text": "Milwaukee District West Line",
+    "alternatives": []
+  },
+  "1914": {
+    "text": "Union Pacific West Line",
+    "alternatives": []
+  },
+  "1915": {
+    "text": "Rock Island District",
+    "alternatives": []
+  },
+  "1916": {
+    "text": "Metra Electric District",
+    "alternatives": []
+  },
+  "1917": {
+    "text": "Heritage Corridor",
+    "alternatives": []
+  },
+  "1918": {
+    "text": "SouthWest Service",
+    "alternatives": []
+  },
+  "1919": {
+    "text": "North Central Service",
+    "alternatives": []
+  },
+  "1960": {
+    "text": "Your safety and security are our highest priorities",
+    "alternatives": []
+  },
+  "1961": {
+    "text": "You can help us by being observant of your surroundings",
+    "alternatives": []
+  },
+  "1962": {
+    "text": "If you see something, say something",
+    "alternatives": []
+  },
+  "1963": {
+    "text": "Please report any suspicious behavior, or items, to your train crew",
+    "alternatives": []
+  },
+  "1964": {
+    "text": "Together, we can make us all more secure",
+    "alternatives": []
+  },
+  "1965": {
+    "text": "Thank you for using our service",
+    "alternatives": []
+  },
+  "1971": {
+    "text": "Metra continues to be at a heightened state of security awareness",
+    "alternatives": []
+  },
+  "1972": {
+    "text": "Please, alert any crew member of unattended packages or suspicious behavior",
+    "alternatives": []
+  },
+  "1973": {
+    "text": "Additionally, please do not leave your possesions unattended at any time",
+    "alternatives": []
+  },
+  "1974": {
+    "text": "Thank you",
+    "alternatives": []
+  },
+  "1975": {
+    "text": "As children head back to school, parents are requested to reinforce the lesson, that railroad tracks should never be used as a path or shortcut",
+    "alternatives": []
+  },
+  "1976": {
+    "text": "Please join Metra in reminding everone to Look, Listen, and Live",
+    "alternatives": []
+  },
+  "1978": {
+    "text": "When using our service, always expect a train on any track at any time. Use caution when crossing tracks, and only cross at designated crosswalks or grade crossings. Remember to look, listen, and live.",
+    "alternatives": []
+  },
+  "1980": {
+    "text": "Please note that the priority seating areas are always designated for customers with disabilities",
+    "alternatives": []
+  },
+  "1981": {
+    "text": "On weekends and during off peak service, customers with bicycles may also use this space. You may be required to relinquish your seat for those customers",
+    "alternatives": []
+  },
+  "1982": {
+    "text": "Thank you for your cooperation",
+    "alternatives": []
+  },
+  "1990": {
+    "text": "This is a public safety reminder from operation lifesaver",
+    "alternatives": []
+  },
+  "1991": {
+    "text": "You should always expect a train when approaching a railroad crossing. Any time is train time. Look, listen, and live. Thank you",
+    "alternatives": []
+  },
+  "1992": {
+    "text": "Did you know that railroad tracks are private property? Do not walk, bike, or jog on the tracks. Always use a pedestrian crosswalk to cross tracks. Trespassing is dangerous and illegal. Stay off, stay away, and stay alive.",
+    "alternatives": []
+  },
+  "1993": {
+    "text": "A train hitting your car is like your car running over a soda can. If you see a train coming, don't cross the tracks. Make sure that you do not stop on the tracks: a train always has the right of way",
+    "alternatives": []
+  },
+  "1994": {
+    "text": "Flashing red lights and bells at railroad crossings mean that a train is coming. Whether you are driving or walking, stop immedately, even if the gates are not all the way down. It is not safe to cross the tracks until the lights are no longer flashing",
+    "alternatives": []
+  },
+  "1995": {
+    "text": "Do not stop, pass, or shift on the railroad tracks. Make sure that your car can completely clear the crossing before attempting to cross. Trains overhang the rails by three feet on each side. Being boxed in can cost you your life",
+    "alternatives": []
+  },
+  "1996": {
+    "text": "An operation lifesaver safety blitz will be held at the",
+    "alternatives": []
+  },
+  "1999": {
+    "text": "Your attention please, this is a public safety reminder from Metra, the Union Pacific Railroad, the Burlington Northern Santa Fe, and all of Metra's employees and labor organizations. Please, do not walk, bike, or jog on or near railroad tracks. Always cross at the appropriate pedestrian crosswalk. Be safe: always stop, look, and listen. Please convey this message to your children",
+    "alternatives": []
+  },
+  "2000": {
+    "text": "Zero",
+    "alternatives": []
+  },
+  "2001": {
+    "text": "One",
+    "alternatives": []
+  },
+  "2002": {
+    "text": "Two",
+    "alternatives": []
+  },
+  "2003": {
+    "text": "Three",
+    "alternatives": []
+  },
+  "2004": {
+    "text": "Four",
+    "alternatives": []
+  },
+  "2005": {
+    "text": "Five",
+    "alternatives": []
+  },
+  "2006": {
+    "text": "Six",
+    "alternatives": []
+  },
+  "2007": {
+    "text": "Seven",
+    "alternatives": []
+  },
+  "2008": {
+    "text": "Eight",
+    "alternatives": []
+  },
+  "2009": {
+    "text": "Nine",
+    "alternatives": []
+  },
+  "2010": {
+    "text": "Ten",
+    "alternatives": []
+  },
+  "2011": {
+    "text": "Eleven",
+    "alternatives": []
+  },
+  "2012": {
+    "text": "Twelve",
+    "alternatives": []
+  },
+  "2013": {
+    "text": "Thirteen",
+    "alternatives": []
+  },
+  "2014": {
+    "text": "Fourteen",
+    "alternatives": []
+  },
+  "2015": {
+    "text": "Fifteen",
+    "alternatives": []
+  },
+  "2016": {
+    "text": "Sixteen",
+    "alternatives": []
+  },
+  "2017": {
+    "text": "Seventeen",
+    "alternatives": []
+  },
+  "2018": {
+    "text": "Eighteen",
+    "alternatives": []
+  },
+  "2019": {
+    "text": "Nineteen",
+    "alternatives": []
+  },
+  "2020": {
+    "text": "Twenty",
+    "alternatives": []
+  },
+  "2021": {
+    "text": "Thirty",
+    "alternatives": []
+  },
+  "2022": {
+    "text": "Fourty",
+    "alternatives": []
+  },
+  "2023": {
+    "text": "Fifty",
+    "alternatives": []
+  },
+  "2024": {
+    "text": "Sixty",
+    "alternatives": []
+  },
+  "2025": {
+    "text": "Seventy",
+    "alternatives": []
+  },
+  "2026": {
+    "text": "Eighty",
+    "alternatives": []
+  },
+  "2027": {
+    "text": "Ninety",
+    "alternatives": []
+  },
+  "2028": {
+    "text": "Hundred",
+    "alternatives": []
+  },
+  "2029": {
+    "text": "Thousand",
+    "alternatives": []
+  },
+  "2030": {
+    "text": "Oh",
+    "alternatives": []
+  },
+  "2031": {
+    "text": "First",
+    "alternatives": []
+  },
+  "2032": {
+    "text": "Second",
+    "alternatives": []
+  },
+  "2033": {
+    "text": "Third",
+    "alternatives": []
+  },
+  "2034": {
+    "text": "Fourth",
+    "alternatives": []
+  },
+  "2035": {
+    "text": "Fifth",
+    "alternatives": []
+  },
+  "2036": {
+    "text": "Sixth",
+    "alternatives": []
+  },
+  "2037": {
+    "text": "Seventh",
+    "alternatives": []
+  },
+  "2038": {
+    "text": "Eighth",
+    "alternatives": []
+  },
+  "2039": {
+    "text": "Ninth",
+    "alternatives": []
+  },
+  "2040": {
+    "text": "Tenth",
+    "alternatives": []
+  },
+  "2041": {
+    "text": "Eleventh",
+    "alternatives": []
+  },
+  "2042": {
+    "text": "Twelfth",
+    "alternatives": []
+  },
+  "2043": {
+    "text": "Thirteenth",
+    "alternatives": []
+  },
+  "2044": {
+    "text": "Fourteenth",
+    "alternatives": []
+  },
+  "2045": {
+    "text": "Fifteenth",
+    "alternatives": []
+  },
+  "2046": {
+    "text": "Sixteenth",
+    "alternatives": []
+  },
+  "2047": {
+    "text": "Seventeenth",
+    "alternatives": []
+  },
+  "2048": {
+    "text": "Eighteenth",
+    "alternatives": []
+  },
+  "2049": {
+    "text": "Nineteenth",
+    "alternatives": []
+  },
+  "2050": {
+    "text": "Twentyeth",
+    "alternatives": []
+  },
+  "2051": {
+    "text": "Twenty First",
+    "alternatives": []
+  },
+  "2052": {
+    "text": "Twenty Second",
+    "alternatives": []
+  },
+  "2053": {
+    "text": "Twenty Third",
+    "alternatives": []
+  },
+  "2054": {
+    "text": "Twenty Fourth",
+    "alternatives": []
+  },
+  "2055": {
+    "text": "Twenty Fifth",
+    "alternatives": []
+  },
+  "2056": {
+    "text": "Twenty Sixth",
+    "alternatives": []
+  },
+  "2057": {
+    "text": "Twenty Seventh",
+    "alternatives": []
+  },
+  "2058": {
+    "text": "Twenty Eighth",
+    "alternatives": []
+  },
+  "2059": {
+    "text": "Twenty Ninth",
+    "alternatives": []
+  },
+  "2060": {
+    "text": "Thirtieth",
+    "alternatives": []
+  },
+  "2061": {
+    "text": "Thirty First",
+    "alternatives": []
+  },
+  "2062": {
+    "text": "January",
+    "alternatives": []
+  },
+  "2063": {
+    "text": "February",
+    "alternatives": []
+  },
+  "2064": {
+    "text": "March",
+    "alternatives": []
+  },
+  "2065": {
+    "text": "April",
+    "alternatives": []
+  },
+  "2066": {
+    "text": "May",
+    "alternatives": []
+  },
+  "2067": {
+    "text": "June",
+    "alternatives": []
+  },
+  "2068": {
+    "text": "July",
+    "alternatives": []
+  },
+  "2069": {
+    "text": "August",
+    "alternatives": []
+  },
+  "2070": {
+    "text": "September",
+    "alternatives": []
+  },
+  "2071": {
+    "text": "October",
+    "alternatives": []
+  },
+  "2072": {
+    "text": "November",
+    "alternatives": []
+  },
+  "2073": {
+    "text": "December",
+    "alternatives": []
+  },
+  "2074": {
+    "text": "Monday",
+    "alternatives": []
+  },
+  "2075": {
+    "text": "Tuesday",
+    "alternatives": []
+  },
+  "2076": {
+    "text": "Wednesday",
+    "alternatives": []
+  },
+  "2077": {
+    "text": "Thursday",
+    "alternatives": []
+  },
+  "2078": {
+    "text": "Friday",
+    "alternatives": []
+  },
+  "2079": {
+    "text": "Saturday",
+    "alternatives": []
+  },
+  "2080": {
+    "text": "Sunday",
+    "alternatives": []
+  },
+  "2081": {
+    "text": "Northbound",
+    "alternatives": []
+  },
+  "2082": {
+    "text": "Southbound",
+    "alternatives": []
+  },
+  "2083": {
+    "text": "Eastbound",
+    "alternatives": []
+  },
+  "2084": {
+    "text": "Westbound",
+    "alternatives": []
+  },
+  "2085": {
+    "text": "Inbound",
+    "alternatives": []
+  },
+  "2086": {
+    "text": "Outbound",
+    "alternatives": []
+  },
+  "2087": {
+    "text": "North",
+    "alternatives": []
+  },
+  "2088": {
+    "text": "South",
+    "alternatives": []
+  },
+  "2089": {
+    "text": "East",
+    "alternatives": []
+  },
+  "2090": {
+    "text": "West",
+    "alternatives": []
+  },
+  "2091": {
+    "text": "Right",
+    "alternatives": []
+  },
+  "2092": {
+    "text": "Left",
+    "alternatives": []
+  },
+  "2093": {
+    "text": "Upper",
+    "alternatives": []
+  },
+  "2094": {
+    "text": "Lower",
+    "alternatives": []
+  },
+  "2095": {
+    "text": "Front",
+    "alternatives": []
+  },
+  "2096": {
+    "text": "Rear",
+    "alternatives": []
+  },
+  "2097": {
+    "text": "Center",
+    "alternatives": []
+  },
+  "2100": {
+    "text": "Fourth Of July",
+    "alternatives": []
+  },
+  "2101": {
+    "text": "Good Friday",
+    "alternatives": []
+  },
+  "2102": {
+    "text": "President's Day",
+    "alternatives": []
+  },
+  "2103": {
+    "text": "Christmas Day",
+    "alternatives": []
+  },
+  "2104": {
+    "text": "Christmas Eve",
+    "alternatives": []
+  },
+  "2105": {
+    "text": "Memorial Day",
+    "alternatives": []
+  },
+  "2106": {
+    "text": "Martin Luther King Day",
+    "alternatives": []
+  },
+  "2107": {
+    "text": "New Year's Day",
+    "alternatives": []
+  },
+  "2108": {
+    "text": "New Year's Eve",
+    "alternatives": []
+  },
+  "2109": {
+    "text": "Thanksgiving Day",
+    "alternatives": []
+  },
+  "2110": {
+    "text": "Labor Day",
+    "alternatives": []
+  },
+  "2111": {
+    "text": "A Holiday",
+    "alternatives": []
+  },
+  "2112": {
+    "text": "The Holiday",
+    "alternatives": []
+  },
+  "2113": {
+    "text": "Holiday",
+    "alternatives": []
+  },
+  "2120": {
+    "text": "This",
+    "alternatives": []
+  },
+  "2121": {
+    "text": "Train",
+    "alternatives": []
+  },
+  "2122": {
+    "text": "This Train",
+    "alternatives": []
+  },
+  "2123": {
+    "text": "Our Train",
+    "alternatives": []
+  },
+  "2124": {
+    "text": "A Train Ahead",
+    "alternatives": []
+  },
+  "2125": {
+    "text": "The Disabled Train",
+    "alternatives": []
+  },
+  "2126": {
+    "text": "The Disabled Freight Train",
+    "alternatives": []
+  },
+  "2127": {
+    "text": "An Inbound Train",
+    "alternatives": []
+  },
+  "2128": {
+    "text": "An Outbound Train",
+    "alternatives": []
+  },
+  "2129": {
+    "text": "Not Carrying Passengers",
+    "alternatives": []
+  },
+  "2130": {
+    "text": "The Doors On The",
+    "alternatives": []
+  },
+  "2131": {
+    "text": "A Bus At",
+    "alternatives": []
+  },
+  "2132": {
+    "text": "By A Following Train",
+    "alternatives": []
+  },
+  "2133": {
+    "text": "A Train Ahead Of Us",
+    "alternatives": []
+  },
+  "2140": {
+    "text": "AM",
+    "alternatives": []
+  },
+  "2141": {
+    "text": "PM",
+    "alternatives": []
+  },
+  "2142": {
+    "text": "O'Clock",
+    "alternatives": []
+  },
+  "2143": {
+    "text": "Rush Hour",
+    "alternatives": []
+  },
+  "2144": {
+    "text": "Non Rush Hour",
+    "alternatives": []
+  },
+  "2145": {
+    "text": "Mid-day",
+    "alternatives": []
+  },
+  "2146": {
+    "text": "Evening",
+    "alternatives": []
+  },
+  "2147": {
+    "text": "Morning",
+    "alternatives": []
+  },
+  "2148": {
+    "text": "Dollar",
+    "alternatives": []
+  },
+  "2149": {
+    "text": "Dollars",
+    "alternatives": []
+  },
+  "2150": {
+    "text": "Cent",
+    "alternatives": []
+  },
+  "2151": {
+    "text": "Cents",
+    "alternatives": []
+  },
+  "2152": {
+    "text": "To",
+    "alternatives": []
+  },
+  "2153": {
+    "text": "At",
+    "alternatives": []
+  },
+  "2154": {
+    "text": "The",
+    "alternatives": []
+  },
+  "2155": {
+    "text": "And",
+    "alternatives": []
+  },
+  "2156": {
+    "text": "During The",
+    "alternatives": []
+  },
+  "2157": {
+    "text": "Due To The",
+    "alternatives": []
+  },
+  "2158": {
+    "text": "Will Pick Up And Drop Off Customers At",
+    "alternatives": []
+  },
+  "2159": {
+    "text": "A Bus Has Been Requested To Report To",
+    "alternatives": []
+  },
+  "2161": {
+    "text": "On",
+    "alternatives": []
+  },
+  "2162": {
+    "text": "Effective",
+    "alternatives": []
+  },
+  "2164": {
+    "text": "Tomorrow",
+    "alternatives": []
+  },
+  "2165": {
+    "text": "Yesterday",
+    "alternatives": []
+  },
+  "2166": {
+    "text": "Next",
+    "alternatives": []
+  },
+  "2167": {
+    "text": "Previous",
+    "alternatives": []
+  },
+  "2168": {
+    "text": "Behind",
+    "alternatives": []
+  },
+  "2169": {
+    "text": "Ahead",
+    "alternatives": []
+  },
+  "2170": {
+    "text": "A",
+    "alternatives": []
+  },
+  "2171": {
+    "text": "The",
+    "alternatives": []
+  },
+  "2172": {
+    "text": "Or",
+    "alternatives": []
+  },
+  "2173": {
+    "text": "But",
+    "alternatives": []
+  },
+  "2174": {
+    "text": "A",
+    "alternatives": []
+  },
+  "2175": {
+    "text": "The",
+    "alternatives": []
+  },
+  "2200": {
+    "text": "Please have your tickets ready for collection",
+    "alternatives": []
+  },
+  "2201": {
+    "text": "If you need to ride beyond the zone limits of your ticket you must notify a member of the train crew, Or A",
+    "alternatives": []
+  },
+  "2202": {
+    "text": "Penalty will be charged, in addition to the incremental fare of",
+    "alternatives": []
+  },
+  "2203": {
+    "text": "For the first zone",
+    "alternatives": []
+  },
+  "2204": {
+    "text": "For Each Additional Zone",
+    "alternatives": []
+  },
+  "2205": {
+    "text": "If You Need To Ride Beyond The Zone Limits Of Your Ticket, You Must Nofity The Train Crew, Or A Penalty Will Be Charged In Addition To The Incremental Fare Of",
+    "alternatives": []
+  },
+  "2210": {
+    "text": "We Have An Urgent Situation Which Requires The Evacuation Of This Train At",
+    "alternatives": []
+  },
+  "2211": {
+    "text": "Please Discontinue the use of all cellular phones and computers at this time",
+    "alternatives": []
+  },
+  "2212": {
+    "text": "When you exit the train, take all of your newspapers, paper and plastic bags, as well as other personal belongings with you",
+    "alternatives": []
+  },
+  "2213": {
+    "text": "Do not leave anything that you brought on the train behind",
+    "alternatives": []
+  },
+  "2214": {
+    "text": "After exiting, please move away from the train",
+    "alternatives": []
+  },
+  "2218": {
+    "text": "Monthly tickets will not be accepted after today",
+    "alternatives": []
+  },
+  "2219": {
+    "text": "Monthly tickets will only be accepted until noon tomorrow",
+    "alternatives": []
+  },
+  "2220": {
+    "text": "Monthly tickets will not be accepted after tomorrow",
+    "alternatives": []
+  },
+  "2221": {
+    "text": "Monthly tickets will only be accepted until noon today",
+    "alternatives": []
+  },
+  "2222": {
+    "text": "Please remember to purchase your new ticket before boarding",
+    "alternatives": []
+  },
+  "2223": {
+    "text": "Weekend tickets are available from the ticket agents and on board personnel",
+    "alternatives": []
+  },
+  "2224": {
+    "text": "The ticket allows unlimited travel during the entire weekend for which it is purchased",
+    "alternatives": []
+  },
+  "2225": {
+    "text": "We are offering special event tickets valid on all trains operating on",
+    "alternatives": []
+  },
+  "2226": {
+    "text": "Tickets can be purchased from any ticket agent, or on board personnel",
+    "alternatives": []
+  },
+  "2227": {
+    "text": "Valid on all trains departing or arriving Chicago after",
+    "alternatives": []
+  },
+  "2228": {
+    "text": "Our tickets will be honored by",
+    "alternatives": []
+  },
+  "2229": {
+    "text": "We will honor south shore tickets",
+    "alternatives": []
+  },
+  "2230": {
+    "text": "We are offering special event tickets",
+    "alternatives": []
+  },
+  "2231": {
+    "text": "There will be no alcoholic beverages or glass containers allowed on the trains after",
+    "alternatives": []
+  },
+  "2232": {
+    "text": "No alcohol beverages or glass containers will be allowed on any metra train",
+    "alternatives": []
+  },
+  "2233": {
+    "text": "The ticket office hours at",
+    "alternatives": []
+  },
+  "2234": {
+    "text": "Have been extended to provide you an opportunity to purchase your tickets",
+    "alternatives": []
+  },
+  "2235": {
+    "text": "Please note that we will be operating on a modified schedule on",
+    "alternatives": []
+  },
+  "2236": {
+    "text": "Copies of the modified schedule are available at ticket offices and downtown terminals",
+    "alternatives": []
+  },
+  "2237": {
+    "text": "This train will not operate on",
+    "alternatives": []
+  },
+  "2238": {
+    "text": "Special schedules are available at",
+    "alternatives": []
+  },
+  "2250": {
+    "text": "May we have your attention please",
+    "alternatives": []
+  },
+  "2251": {
+    "text": "As a reminder",
+    "alternatives": []
+  },
+  "2252": {
+    "text": "Your attention please",
+    "alternatives": []
+  },
+  "2253": {
+    "text": "Based on information we have received",
+    "alternatives": []
+  },
+  "2254": {
+    "text": "We have been informed that",
+    "alternatives": []
+  },
+  "2255": {
+    "text": "At this time",
+    "alternatives": []
+  },
+  "2256": {
+    "text": "As a result",
+    "alternatives": []
+  },
+  "2257": {
+    "text": "For your convenience",
+    "alternatives": []
+  },
+  "2258": {
+    "text": "Than you for your patience and understanding",
+    "alternatives": []
+  },
+  "2259": {
+    "text": "Thank you for riding metra today",
+    "alternatives": []
+  },
+  "2260": {
+    "text": "Thank you for riding Metra today. Please take your personal belonings and watch your step while exiting the train. To avoid paying a surchage, please purchagese your ticket prior to boarding on your next trip with Metra. Mobile tickets can be purchased using the Ventra app. Available today for iPhone and Android",
+    "alternatives": []
+  },
+  "2262": {
+    "text": "Minutes",
+    "alternatives": []
+  },
+  "2263": {
+    "text": "Minutes Late",
+    "alternatives": []
+  },
+  "2264": {
+    "text": "Minutes Early",
+    "alternatives": []
+  },
+  "2265": {
+    "text": "Platform",
+    "alternatives": []
+  },
+  "2266": {
+    "text": "Minute Late",
+    "alternatives": []
+  },
+  "2267": {
+    "text": "This is",
+    "alternatives": []
+  },
+  "2268": {
+    "text": "Making stops at",
+    "alternatives": []
+  },
+  "2269": {
+    "text": "The next stop will be",
+    "alternatives": []
+  },
+  "2270": {
+    "text": "Now approaching",
+    "alternatives": []
+  },
+  "2271": {
+    "text": "Departure to",
+    "alternatives": []
+  },
+  "2272": {
+    "text": "Train number",
+    "alternatives": []
+  },
+  "2273": {
+    "text": "Scheduled to depart",
+    "alternatives": []
+  },
+  "2274": {
+    "text": "With intermediate stops",
+    "alternatives": []
+  },
+  "2275": {
+    "text": "The scheduled stops of this train have been changed",
+    "alternatives": []
+  },
+  "2276": {
+    "text": "This train will now run express",
+    "alternatives": []
+  },
+  "2277": {
+    "text": "Will not operate",
+    "alternatives": []
+  },
+  "2278": {
+    "text": "Will pick up and drop off passengers at",
+    "alternatives": []
+  },
+  "2279": {
+    "text": "Passengers will board a waiting train, which will take them to their final destination",
+    "alternatives": []
+  },
+  "2280": {
+    "text": "Later than the normal arrival time",
+    "alternatives": []
+  },
+  "2281": {
+    "text": "Is now moving",
+    "alternatives": []
+  },
+  "2282": {
+    "text": "Minute Early",
+    "alternatives": []
+  },
+  "2283": {
+    "text": "The scheduled stops of this train have been changed",
+    "alternatives": []
+  },
+  "2284": {
+    "text": "If you wish to make a flag stop, you must notify a trainmen, or the train will not stop",
+    "alternatives": []
+  },
+  "2285": {
+    "text": "We are now arriving at",
+    "alternatives": []
+  },
+  "2286": {
+    "text": "Schedued to depart at",
+    "alternatives": []
+  },
+  "2287": {
+    "text": "This train will make flag stops at",
+    "alternatives": []
+  },
+  "2288": {
+    "text": "Upon request",
+    "alternatives": []
+  },
+  "2289": {
+    "text": "We are uncertain on how long we will be delayed at this time, but will update you as soon as information becomes available",
+    "alternatives": []
+  },
+  "2290": {
+    "text": "[Three Dings]",
+    "alternatives": []
+  },
+  "2300": {
+    "text": "Please take a few moments to familiarize yourself with the locations of the emergency exits",
+    "alternatives": []
+  },
+  "2301": {
+    "text": "All cars equipped with emergency lighting which will engage automatically if a power loss occurs",
+    "alternatives": []
+  },
+  "2302": {
+    "text": "Each half of the car is equipped with at least two emergency exit windows",
+    "alternatives": []
+  },
+  "2303": {
+    "text": "Opening instructions are on each window",
+    "alternatives": []
+  },
+  "2304": {
+    "text": "Please remember to take your tickets, and personal belongings",
+    "alternatives": []
+  },
+  "2305": {
+    "text": "We would like to take this opportunity to wish you and your families a safe and happy holiday",
+    "alternatives": []
+  },
+  "2307": {
+    "text": "Late slips are available at the ticket office and the information area",
+    "alternatives": []
+  },
+  "2308": {
+    "text": "Please use caution when detraining",
+    "alternatives": []
+  },
+  "2309": {
+    "text": "City and state law prohibits the crossing of tracks in the downtown terminal",
+    "alternatives": []
+  },
+  "2310": {
+    "text": "Take the safe course and stay behind the yellow safety lines when exiting the station",
+    "alternatives": []
+  },
+  "2311": {
+    "text": "Please watch your step while exiting the train",
+    "alternatives": []
+  },
+  "2312": {
+    "text": "We apologize for our late arrival",
+    "alternatives": []
+  },
+  "2313": {
+    "text": "Late slips are available at the ticket office and the information area",
+    "alternatives": []
+  },
+  "2314": {
+    "text": "If you are traveling on a reduced fare ticket, or plan to purchase a reduced fare from on board personnel, please have your RTA reduced fare card or student identification available",
+    "alternatives": []
+  },
+  "2315": {
+    "text": "Due to extreme weather conditions, please use caution when detraining",
+    "alternatives": []
+  },
+  "2316": {
+    "text": "If you are travelling with small children, you are invited to use the customer service car",
+    "alternatives": []
+  },
+  "2317": {
+    "text": "For their safety, please keep your children seated with you at all times",
+    "alternatives": []
+  },
+  "2318": {
+    "text": "For those customers exiting at",
+    "alternatives": []
+  },
+  "2319": {
+    "text": "Please note the construction underway",
+    "alternatives": []
+  },
+  "2320": {
+    "text": "Do not enter the areas or walkways which have been removed from service",
+    "alternatives": []
+  },
+  "2321": {
+    "text": "And watch the gap between the car and platform",
+    "alternatives": []
+  },
+  "2322": {
+    "text": "Those customers who need to purchase a ticket for their return home should do so when detraining to avoid large crowds prior to train departure",
+    "alternatives": []
+  },
+  "2323": {
+    "text": "Smoking is prohibited on any train at any time",
+    "alternatives": []
+  },
+  "2324": {
+    "text": "A new schedule will be in effect on",
+    "alternatives": []
+  },
+  "2325": {
+    "text": "New schedules are available at all downtown terminals and ticket agencies",
+    "alternatives": []
+  },
+  "2326": {
+    "text": "Copies of our special schedule for",
+    "alternatives": []
+  },
+  "2327": {
+    "text": "Copies of the commmuter newsletter: On the BiLevel",
+    "alternatives": []
+  },
+  "2328": {
+    "text": "Copies of our special schedule",
+    "alternatives": []
+  },
+  "2329": {
+    "text": "Copies of a special bulletin",
+    "alternatives": []
+  },
+  "2330": {
+    "text": "Regarding potential service disruption",
+    "alternatives": []
+  },
+  "2331": {
+    "text": "Regarding the recent service disruption",
+    "alternatives": []
+  },
+  "2332": {
+    "text": "Are now available in the plastic holders, near the exit doors",
+    "alternatives": []
+  },
+  "2333": {
+    "text": "Please do not block the door or aisles, making it difficult for passengers to exit or enter at their stations",
+    "alternatives": []
+  },
+  "2334": {
+    "text": "Passengers are asked to remain seated until the train has departed the station prior to the destination",
+    "alternatives": []
+  },
+  "2335": {
+    "text": "Please refrain from placing your feet on seats, modesty panels, or upper deck railings",
+    "alternatives": []
+  },
+  "2336": {
+    "text": "No seats are reserved",
+    "alternatives": []
+  },
+  "2337": {
+    "text": "Please do not inconvenience other customers by holding seats, or blocking seats with parcels or coats",
+    "alternatives": []
+  },
+  "2338": {
+    "text": "Any passenger may occupy seats designated as priority seating, but may be required to relocate by the on board staff",
+    "alternatives": []
+  },
+  "2339": {
+    "text": "Please be considerate of others when using mobile phones, and keep volume on music headsets low",
+    "alternatives": []
+  },
+  "2340": {
+    "text": "Please help us maintain a clean environment, by not leaving litter on trains, in stations, or in stairwells and walkways",
+    "alternatives": []
+  },
+  "2341": {
+    "text": "Passengers whose conduct is disorderly or unsafe will not be allowed on the train",
+    "alternatives": []
+  },
+  "2342": {
+    "text": "Obscene language, or that which is disturbing to other passengers, is prohibited",
+    "alternatives": []
+  },
+  "2343": {
+    "text": "Would like to take this opportunity to wish you and your families a safe and happy holiday",
+    "alternatives": []
+  },
+  "2344": {
+    "text": "Conductor",
+    "alternatives": []
+  },
+  "2345": {
+    "text": "Conductor on",
+    "alternatives": []
+  },
+  "2346": {
+    "text": "Please contact the operation center at extension",
+    "alternatives": []
+  },
+  "2347": {
+    "text": "Please contact extension",
+    "alternatives": []
+  },
+  "2348": {
+    "text": "As soon as possible",
+    "alternatives": []
+  },
+  "2349": {
+    "text": "Conductor, please report to the customer service car",
+    "alternatives": []
+  },
+  "2350": {
+    "text": "Due to a Great Hall Event at Chicago Union Station, access into and out of the station will be restricted after",
+    "alternatives": []
+  },
+  "2351": {
+    "text": "Please follow signs which have been posted for your information",
+    "alternatives": []
+  },
+  "2352": {
+    "text": "Our tickets will be honored by",
+    "alternatives": []
+  },
+  "2353": {
+    "text": "The train will now run express from",
+    "alternatives": []
+  },
+  "2354": {
+    "text": "It will not be stopping at",
+    "alternatives": []
+  },
+  "2355": {
+    "text": "Passengers for these stations should detrain at",
+    "alternatives": []
+  },
+  "2356": {
+    "text": "To transfer to the next available train to your destination",
+    "alternatives": []
+  },
+  "2357": {
+    "text": "This train is operating approximately",
+    "alternatives": []
+  },
+  "2358": {
+    "text": "We will provide updated information, as it becomes available",
+    "alternatives": []
+  },
+  "2359": {
+    "text": "We will be pushed to",
+    "alternatives": []
+  },
+  "2360": {
+    "text": "May delay our train enroute",
+    "alternatives": []
+  },
+  "2361": {
+    "text": "Will affect the operation of our train",
+    "alternatives": []
+  },
+  "2362": {
+    "text": "We are anticipating a delay of approximately",
+    "alternatives": []
+  },
+  "2363": {
+    "text": "We are being delayed due to a mechanical failure on",
+    "alternatives": []
+  },
+  "2364": {
+    "text": "We are working on the problem, and will do everything possible to minimize any delay",
+    "alternatives": []
+  },
+  "2365": {
+    "text": "We continue to be delayed due to a mechanical failure",
+    "alternatives": []
+  },
+  "2366": {
+    "text": "We will keep you informed as information becomes available",
+    "alternatives": []
+  },
+  "2367": {
+    "text": "The mechanical problem has now been repaired",
+    "alternatives": []
+  },
+  "2368": {
+    "text": "We are currently operating approximately",
+    "alternatives": []
+  },
+  "2369": {
+    "text": "Those of you who wish to transfer to a local train, can do so at",
+    "alternatives": []
+  },
+  "2370": {
+    "text": "We apologizefor any inconvenience",
+    "alternatives": []
+  },
+  "2371": {
+    "text": "It appears the mechanical problems cannot be fixed at this time",
+    "alternatives": []
+  },
+  "2372": {
+    "text": "We will be transferring passengers to another train, as soon as it arrives",
+    "alternatives": []
+  },
+  "2373": {
+    "text": "Please listen for further instructions from your on board personnel",
+    "alternatives": []
+  },
+  "2374": {
+    "text": "We will be pulling up behind the disabled train, and pushing it",
+    "alternatives": []
+  },
+  "2375": {
+    "text": "We will update you with regard to total anticipated delay shortly",
+    "alternatives": []
+  },
+  "2376": {
+    "text": "A spare locomotive has been sent to assist",
+    "alternatives": []
+  },
+  "2377": {
+    "text": "We hope to be moving in approximately",
+    "alternatives": []
+  },
+  "2378": {
+    "text": "Has been involved in a street crossing accident",
+    "alternatives": []
+  },
+  "2379": {
+    "text": "We are awaiting further information with regard to anticipated length of delays",
+    "alternatives": []
+  },
+  "2380": {
+    "text": "The crossing accident has blocked all tracks in the immediate vicinity of the accident",
+    "alternatives": []
+  },
+  "2381": {
+    "text": "Emergency crews are enroute",
+    "alternatives": []
+  },
+  "2382": {
+    "text": "But are unable to estimate the amount of time until more information becomes available",
+    "alternatives": []
+  },
+  "2383": {
+    "text": "All traffic has been halted in the vicinity of the accident, until further notice",
+    "alternatives": []
+  },
+  "2384": {
+    "text": "We incur a delay of up to",
+    "alternatives": []
+  },
+  "2385": {
+    "text": "We have received an update regarding the accident",
+    "alternatives": []
+  },
+  "2386": {
+    "text": "Police and emergency crews are at the site",
+    "alternatives": []
+  },
+  "2387": {
+    "text": "We are awaiting further information to update our anticipated length of delay",
+    "alternatives": []
+  },
+  "2388": {
+    "text": "We anticipate that the train may arrive at its final destination approximately",
+    "alternatives": []
+  },
+  "2389": {
+    "text": "Train traffic will be allowed to proceed through the accident scene at a reduced speed",
+    "alternatives": []
+  },
+  "2390": {
+    "text": "We should be moving shortly and will update you as to our overall anticipated delay in a few moments",
+    "alternatives": []
+  },
+  "2391": {
+    "text": "The accident scene has been cleared and we should be moving shortly",
+    "alternatives": []
+  },
+  "2392": {
+    "text": "We anticipate we will arrive at our final destination approximately",
+    "alternatives": []
+  },
+  "2393": {
+    "text": "Thank you for your patience",
+    "alternatives": []
+  },
+  "2394": {
+    "text": "We are currently experiencing signal problems in the vicinity of",
+    "alternatives": []
+  },
+  "2395": {
+    "text": "We may experience a delay of approximately",
+    "alternatives": []
+  },
+  "2396": {
+    "text": "The signal problems will require us to operate at a reduced speed through the area",
+    "alternatives": []
+  },
+  "2397": {
+    "text": "We are currently experiencing a switch problem in the vicinity of",
+    "alternatives": []
+  },
+  "2398": {
+    "text": "We are experiencing some delay, but will keep you advised",
+    "alternatives": []
+  },
+  "2399": {
+    "text": "The switch problems will require us to operate at a reduced speed through the area",
+    "alternatives": []
+  },
+  "2401": {
+    "text": "We have a passenger on board our train who requires medical assistance",
+    "alternatives": []
+  },
+  "2402": {
+    "text": "We have requested emergency response personnel",
+    "alternatives": []
+  },
+  "2403": {
+    "text": "If there is anyone on board with medical training, who can assist this passenger, please see a member of the on board crew",
+    "alternatives": []
+  },
+  "2404": {
+    "text": "We will advice you as soon as soon as we can resume our trip",
+    "alternatives": []
+  },
+  "2405": {
+    "text": "Will not be on the platform, and will not open",
+    "alternatives": []
+  },
+  "2406": {
+    "text": "Will not open",
+    "alternatives": []
+  },
+  "2407": {
+    "text": "We will be underway as soon as possible, and will update you as more information is available",
+    "alternatives": []
+  },
+  "2408": {
+    "text": "We are now ready to proceed, and will be underway shortly",
+    "alternatives": []
+  },
+  "2409": {
+    "text": "We are operating",
+    "alternatives": []
+  },
+  "2410": {
+    "text": "But will update you as soon as information becomes available",
+    "alternatives": []
+  },
+  "2411": {
+    "text": "The train ahead is now moving, and we will proceed as well",
+    "alternatives": []
+  },
+  "2412": {
+    "text": "Due to scheduled construction work, this train may arrive at its final destination up to",
+    "alternatives": []
+  },
+  "2413": {
+    "text": "This train will not operate between",
+    "alternatives": []
+  },
+  "2414": {
+    "text": "We anticipate that we will incur a delay",
+    "alternatives": []
+  },
+  "2416": {
+    "text": "And is awaiting the arrival of emergency response personnel for",
+    "alternatives": []
+  },
+  "2417": {
+    "text": "Has stopped",
+    "alternatives": []
+  },
+  "2418": {
+    "text": "Passengers for other destinations should detrain immediately",
+    "alternatives": []
+  },
+  "2419": {
+    "text": "We apologize for the inconvenience",
+    "alternatives": []
+  },
+  "2420": {
+    "text": "We apologize for the delay",
+    "alternatives": []
+  },
+  "2421": {
+    "text": "We will update you",
+    "alternatives": []
+  },
+  "2422": {
+    "text": "Based on information we are receiving at this time",
+    "alternatives": []
+  },
+  "2423": {
+    "text": "Trash cans are located on all cars",
+    "alternatives": []
+  },
+  "2424": {
+    "text": "May we have your attention please",
+    "alternatives": []
+  },
+  "2425": {
+    "text": "Please remember that no alcoholic beverages or glass bottles will be allowed on board the trains",
+    "alternatives": []
+  },
+  "2426": {
+    "text": "Please remember that after 7PM, no alcoholic beverages or glass bottles will be allowed on board the trains, and there is no smoking at any time",
+    "alternatives": []
+  },
+  "2427": {
+    "text": "The following is an emergency announcement",
+    "alternatives": []
+  },
+  "2428": {
+    "text": "Due to a potentially serious situation, this train must be evacuated immediately. Take all possessions and exit at the nearest vestible. Once away from the train, follow the instructions of the conductor",
+    "alternatives": []
+  },
+  "2431": {
+    "text": "Please be considerate of your fellow passengers and use cell phones only in the vestible",
+    "alternatives": []
+  },
+  "2432": {
+    "text": "To avoid the $2 surcharge for buying a ticket on the train, please purchase your ticket in advance from the ticket agents",
+    "alternatives": []
+  },
+  "2440": {
+    "text": "In order to ensure maximum available capacity during this period",
+    "alternatives": []
+  },
+  "2441": {
+    "text": "We have dedicated our forces to critical maintenance",
+    "alternatives": []
+  },
+  "2442": {
+    "text": "For that reason some wash rooms are out of service",
+    "alternatives": []
+  },
+  "2443": {
+    "text": "A washroom is available in the ADA car or cab control car",
+    "alternatives": []
+  },
+  "2446": {
+    "text": "Metra would like to remind you that if you are planning to attend the",
+    "alternatives": []
+  },
+  "2447": {
+    "text": "Passengers attending",
+    "alternatives": []
+  },
+  "2448": {
+    "text": "Should detrain here",
+    "alternatives": []
+  },
+  "2449": {
+    "text": "Detrain here for",
+    "alternatives": []
+  },
+  "2450": {
+    "text": "The festivities",
+    "alternatives": []
+  },
+  "2451": {
+    "text": "The conference",
+    "alternatives": []
+  },
+  "2452": {
+    "text": "The international housewares show",
+    "alternatives": []
+  },
+  "2453": {
+    "text": "The Chicago Auto Show",
+    "alternatives": []
+  },
+  "2454": {
+    "text": "The ProMat show",
+    "alternatives": []
+  },
+  "2455": {
+    "text": "The National Manufacturing Show",
+    "alternatives": []
+  },
+  "2456": {
+    "text": "The Book Expo Show",
+    "alternatives": []
+  },
+  "2457": {
+    "text": "The International Hardware Show",
+    "alternatives": []
+  },
+  "2458": {
+    "text": "The Print and Converting Show",
+    "alternatives": []
+  },
+  "2459": {
+    "text": "The FabTech Show",
+    "alternatives": []
+  },
+  "2460": {
+    "text": "The Radiological Society Meeting Show",
+    "alternatives": []
+  },
+  "2461": {
+    "text": "Blues Fest",
+    "alternatives": []
+  },
+  "2462": {
+    "text": "Taste of Chicago",
+    "alternatives": []
+  },
+  "2463": {
+    "text": "The Country Music Festival",
+    "alternatives": []
+  },
+  "2464": {
+    "text": "The Nation Night",
+    "alternatives": []
+  },
+  "2465": {
+    "text": "Chicago Air and Water Show",
+    "alternatives": []
+  },
+  "2466": {
+    "text": "Viva Chicago",
+    "alternatives": []
+  },
+  "2467": {
+    "text": "Jazz Festival",
+    "alternatives": []
+  },
+  "2468": {
+    "text": "The Celtic Festival",
+    "alternatives": []
+  },
+  "2469": {
+    "text": "The Columbus Day Parade",
+    "alternatives": []
+  },
+  "2470": {
+    "text": "The Magnificent Mile Festival of Lights",
+    "alternatives": []
+  },
+  "2471": {
+    "text": "The Magnificent Mile Parade of Lights",
+    "alternatives": []
+  },
+  "2472": {
+    "text": "The Jingle Elf Parade",
+    "alternatives": []
+  },
+  "2473": {
+    "text": "The Saint Patrick's Day Parade",
+    "alternatives": []
+  },
+  "2474": {
+    "text": "The Millennium Park",
+    "alternatives": []
+  },
+  "2475": {
+    "text": "The Celtic Festival",
+    "alternatives": []
+  },
+  "2476": {
+    "text": "Please remember that no alcoholic beverages or glass bottles will be allowed on board trains after 7PM",
+    "alternatives": []
+  },
+  "2477": {
+    "text": "Please remember that after 7PM, no alcoholic beverages or glass bottles will be allowed on board the trains, and there is no smoking at any time",
+    "alternatives": []
+  },
+  "2500": {
+    "text": "Due to",
+    "alternatives": []
+  },
+  "2501": {
+    "text": "A grade crossing accident",
+    "alternatives": []
+  },
+  "2502": {
+    "text": "A street crossing accident",
+    "alternatives": []
+  },
+  "2503": {
+    "text": "An accident involving the train",
+    "alternatives": []
+  },
+  "2504": {
+    "text": "An accident not involving the train",
+    "alternatives": []
+  },
+  "2505": {
+    "text": "A bus delay",
+    "alternatives": []
+  },
+  "2506": {
+    "text": "A customer dispute",
+    "alternatives": []
+  },
+  "2507": {
+    "text": "Debris on the tracks ahead",
+    "alternatives": []
+  },
+  "2508": {
+    "text": "A freight derailment",
+    "alternatives": []
+  },
+  "2509": {
+    "text": "A passenger train derailment",
+    "alternatives": []
+  },
+  "2510": {
+    "text": "A medical emergency",
+    "alternatives": []
+  },
+  "2511": {
+    "text": "A sick passenger",
+    "alternatives": []
+  },
+  "2512": {
+    "text": "A police emergency",
+    "alternatives": []
+  },
+  "2513": {
+    "text": "Emergency Track Repairs",
+    "alternatives": []
+  },
+  "2514": {
+    "text": "Electrical wire failure",
+    "alternatives": []
+  },
+  "2515": {
+    "text": "Equipment failure",
+    "alternatives": []
+  },
+  "2516": {
+    "text": "A mechanical failure",
+    "alternatives": []
+  },
+  "2517": {
+    "text": "A signal failure",
+    "alternatives": []
+  },
+  "2518": {
+    "text": "A fire adjacent to the tracks",
+    "alternatives": []
+  },
+  "2519": {
+    "text": "A freight train blocking an upcoming interlocking",
+    "alternatives": []
+  },
+  "2520": {
+    "text": "Freight train interference",
+    "alternatives": []
+  },
+  "2521": {
+    "text": "A stalled freight train",
+    "alternatives": []
+  },
+  "2522": {
+    "text": "A hazardous material condition",
+    "alternatives": []
+  },
+  "2523": {
+    "text": "A holiday parade",
+    "alternatives": []
+  },
+  "2524": {
+    "text": "Heavy passenger loading",
+    "alternatives": []
+  },
+  "2525": {
+    "text": "Late arrival of equipment due to earlier delays",
+    "alternatives": []
+  },
+  "2526": {
+    "text": "Local authorities",
+    "alternatives": []
+  },
+  "2527": {
+    "text": "Local fire department authorities",
+    "alternatives": []
+  },
+  "2528": {
+    "text": "A drawbridge malfunction",
+    "alternatives": []
+  },
+  "2529": {
+    "text": "A signal malfunction",
+    "alternatives": []
+  },
+  "2530": {
+    "text": "A marathon",
+    "alternatives": []
+  },
+  "2531": {
+    "text": "A pedestrian incident",
+    "alternatives": []
+  },
+  "2532": {
+    "text": "Police activity",
+    "alternatives": []
+  },
+  "2533": {
+    "text": "Signal problems",
+    "alternatives": []
+  },
+  "2534": {
+    "text": "Switch problems",
+    "alternatives": []
+  },
+  "2535": {
+    "text": "Accommodating a boarding passenger",
+    "alternatives": []
+  },
+  "2536": {
+    "text": "Required medical assistance",
+    "alternatives": []
+  },
+  "2537": {
+    "text": "Speed restrictions",
+    "alternatives": []
+  },
+  "2538": {
+    "text": "Track construction",
+    "alternatives": []
+  },
+  "2539": {
+    "text": "Track improvement",
+    "alternatives": []
+  },
+  "2540": {
+    "text": "Ongoing track maintenance",
+    "alternatives": []
+  },
+  "2541": {
+    "text": "Track obstruction",
+    "alternatives": []
+  },
+  "2542": {
+    "text": "Waiting on other trains",
+    "alternatives": []
+  },
+  "2543": {
+    "text": "Weather conditions",
+    "alternatives": []
+  },
+  "2544": {
+    "text": "Weather related problems",
+    "alternatives": []
+  },
+  "2545": {
+    "text": "A mechanical malfunction",
+    "alternatives": []
+  },
+  "2546": {
+    "text": "A mechanical problem from an earlier train",
+    "alternatives": []
+  },
+  "2547": {
+    "text": "A vehicle on the tracks",
+    "alternatives": []
+  },
+  "2548": {
+    "text": "An accident involving an earlier train",
+    "alternatives": []
+  },
+  "2549": {
+    "text": "An accident involving another train",
+    "alternatives": []
+  },
+  "2550": {
+    "text": "An accident involving a freight train",
+    "alternatives": []
+  },
+  "2551": {
+    "text": "A street crossing accident, not involving a train",
+    "alternatives": []
+  },
+  "2552": {
+    "text": "Waiting for the shuttle bus",
+    "alternatives": []
+  },
+  "2553": {
+    "text": "Switch malfunction",
+    "alternatives": []
+  },
+  "2554": {
+    "text": "A funeral procession",
+    "alternatives": []
+  },
+  "2555": {
+    "text": "Slow passenger loading",
+    "alternatives": []
+  },
+  "2556": {
+    "text": "Slow passenger loading due to weather conditions",
+    "alternatives": []
+  },
+  "2557": {
+    "text": "Slow passenger unloading due to weather conditions",
+    "alternatives": []
+  },
+  "2558": {
+    "text": "A power outage",
+    "alternatives": []
+  },
+  "2559": {
+    "text": "Following a train ahead",
+    "alternatives": []
+  },
+  "2560": {
+    "text": "Waiting for another train to clear",
+    "alternatives": []
+  },
+  "2569": {
+    "text": "The next stop will be flag stop",
+    "alternatives": []
+  },
+  "2570": {
+    "text": "Now approaching flag stop",
+    "alternatives": []
+  },
+  "2600": {
+    "text": "Chicago Union Station",
+    "alternatives": []
+  },
+  "2601": {
+    "text": "Ogilvie Transportation Center",
+    "alternatives": []
+  },
+  "2602": {
+    "text": "South Shore Station",
+    "alternatives": []
+  },
+  "2603": {
+    "text": "Lasalle Street Station",
+    "alternatives": []
+  },
+  "2605": {
+    "text": "New Lenox",
+    "alternatives": []
+  },
+  "2606": {
+    "text": "Mokena",
+    "alternatives": []
+  },
+  "2607": {
+    "text": "Hickory Creek",
+    "alternatives": []
+  },
+  "2608": {
+    "text": "Tinley Park/80th Avenue",
+    "alternatives": []
+  },
+  "2609": {
+    "text": "Tinley Park/Oak Park Avenue",
+    "alternatives": []
+  },
+  "2610": {
+    "text": "Oak Forest",
+    "alternatives": []
+  },
+  "2611": {
+    "text": "Midlothian",
+    "alternatives": []
+  },
+  "2612": {
+    "text": "Robbins",
+    "alternatives": []
+  },
+  "2613": {
+    "text": "Blue Island/Vemont Street",
+    "alternatives": []
+  },
+  "2614": {
+    "text": "Prarie Street",
+    "alternatives": []
+  },
+  "2615": {
+    "text": "123rd Street",
+    "alternatives": []
+  },
+  "2616": {
+    "text": "119th Street",
+    "alternatives": []
+  },
+  "2617": {
+    "text": "115th Street",
+    "alternatives": []
+  },
+  "2620": {
+    "text": "35th Street/Lou Jones",
+    "alternatives": []
+  },
+  "2621": {
+    "text": "99th Street",
+    "alternatives": []
+  },
+  "2622": {
+    "text": "95th Street",
+    "alternatives": []
+  },
+  "2623": {
+    "text": "91st Street",
+    "alternatives": []
+  },
+  "2624": {
+    "text": "Brainerd",
+    "alternatives": []
+  },
+  "2625": {
+    "text": "Washington Heights/103rd Street",
+    "alternatives": []
+  },
+  "2626": {
+    "text": "Orland Park/179th Street",
+    "alternatives": []
+  },
+  "2627": {
+    "text": "Orland Park/153rd Street",
+    "alternatives": []
+  },
+  "2628": {
+    "text": "Orland Park/143rd Street",
+    "alternatives": []
+  },
+  "2629": {
+    "text": "Palos Park",
+    "alternatives": []
+  },
+  "2630": {
+    "text": "Worth",
+    "alternatives": []
+  },
+  "2631": {
+    "text": "Chicago Ridge",
+    "alternatives": []
+  },
+  "2632": {
+    "text": "Oak Lawn",
+    "alternatives": []
+  },
+  "2633": {
+    "text": "Ashburn",
+    "alternatives": []
+  },
+  "2634": {
+    "text": "Wrightwood",
+    "alternatives": []
+  },
+  "2635": {
+    "text": "Fox Lake",
+    "alternatives": []
+  },
+  "2636": {
+    "text": "Ingleside",
+    "alternatives": []
+  },
+  "2637": {
+    "text": "Long Lake",
+    "alternatives": []
+  },
+  "2638": {
+    "text": "Round Lake",
+    "alternatives": []
+  },
+  "2639": {
+    "text": "Grayslake",
+    "alternatives": []
+  },
+  "2640": {
+    "text": "Libertyville",
+    "alternatives": []
+  },
+  "2641": {
+    "text": "Lake Forest",
+    "alternatives": []
+  },
+  "2642": {
+    "text": "Deerfield",
+    "alternatives": []
+  },
+  "2643": {
+    "text": "Lake Cook Road",
+    "alternatives": []
+  },
+  "2644": {
+    "text": "Northbrook",
+    "alternatives": []
+  },
+  "2645": {
+    "text": "Glenview",
+    "alternatives": []
+  },
+  "2646": {
+    "text": "North Glenview",
+    "alternatives": []
+  },
+  "2647": {
+    "text": "Golf",
+    "alternatives": []
+  },
+  "2648": {
+    "text": "Morton Grove",
+    "alternatives": []
+  },
+  "2649": {
+    "text": "Edgebrook",
+    "alternatives": []
+  },
+  "2650": {
+    "text": "Forest Glen",
+    "alternatives": []
+  },
+  "2651": {
+    "text": "Mayfair",
+    "alternatives": []
+  },
+  "2652": {
+    "text": "Grayland",
+    "alternatives": []
+  },
+  "2653": {
+    "text": "Heely",
+    "alternatives": []
+  },
+  "2654": {
+    "text": "Big Timber Road",
+    "alternatives": []
+  },
+  "2655": {
+    "text": "Elgin",
+    "alternatives": []
+  },
+  "2656": {
+    "text": "National Street",
+    "alternatives": []
+  },
+  "2657": {
+    "text": "Bartlet",
+    "alternatives": []
+  },
+  "2658": {
+    "text": "Hanover Park",
+    "alternatives": []
+  },
+  "2659": {
+    "text": "Schaumburg",
+    "alternatives": []
+  },
+  "2660": {
+    "text": "Roselle",
+    "alternatives": []
+  },
+  "2661": {
+    "text": "Medinah",
+    "alternatives": []
+  },
+  "2662": {
+    "text": "Itasca",
+    "alternatives": []
+  },
+  "2663": {
+    "text": "Wood Dale",
+    "alternatives": []
+  },
+  "2664": {
+    "text": "Bensenville",
+    "alternatives": []
+  },
+  "2665": {
+    "text": "Mannheim",
+    "alternatives": []
+  },
+  "2666": {
+    "text": "Franklin Park",
+    "alternatives": []
+  },
+  "2668": {
+    "text": "Elmwood Park",
+    "alternatives": []
+  },
+  "2669": {
+    "text": "Mont Claire",
+    "alternatives": []
+  },
+  "2670": {
+    "text": "Mars",
+    "alternatives": []
+  },
+  "2671": {
+    "text": "Galewood",
+    "alternatives": []
+  },
+  "2672": {
+    "text": "Hanson Park",
+    "alternatives": []
+  },
+  "2673": {
+    "text": "Cragin",
+    "alternatives": []
+  },
+  "2674": {
+    "text": "Hermosa",
+    "alternatives": []
+  },
+  "2675": {
+    "text": "Western Avenue",
+    "alternatives": []
+  },
+  "2676": {
+    "text": "University Park",
+    "alternatives": []
+  },
+  "2677": {
+    "text": "Richton Park",
+    "alternatives": []
+  },
+  "2678": {
+    "text": "Matteson",
+    "alternatives": []
+  },
+  "2679": {
+    "text": "211th Street",
+    "alternatives": []
+  },
+  "2680": {
+    "text": "Olympia Fields",
+    "alternatives": []
+  },
+  "2681": {
+    "text": "Flossmoor",
+    "alternatives": []
+  },
+  "2682": {
+    "text": "Homewood",
+    "alternatives": []
+  },
+  "2683": {
+    "text": "Calumet",
+    "alternatives": []
+  },
+  "2684": {
+    "text": "Hazel Crest",
+    "alternatives": []
+  },
+  "2685": {
+    "text": "Harvey",
+    "alternatives": []
+  },
+  "2686": {
+    "text": "147th/Sibley",
+    "alternatives": []
+  },
+  "2687": {
+    "text": "Ivanhoe",
+    "alternatives": []
+  },
+  "2688": {
+    "text": "Riverdale",
+    "alternatives": []
+  },
+  "2689": {
+    "text": "Kensington/115th Street",
+    "alternatives": []
+  },
+  "2690": {
+    "text": "111th Street",
+    "alternatives": []
+  },
+  "2691": {
+    "text": "107th Street",
+    "alternatives": []
+  },
+  "2692": {
+    "text": "103rd Street",
+    "alternatives": []
+  },
+  "2693": {
+    "text": "87th Street",
+    "alternatives": []
+  },
+  "2694": {
+    "text": "83rd Street",
+    "alternatives": []
+  },
+  "2695": {
+    "text": "79th Street",
+    "alternatives": []
+  },
+  "2696": {
+    "text": "75th Street",
+    "alternatives": []
+  },
+  "2697": {
+    "text": "63rd Street",
+    "alternatives": []
+  },
+  "2698": {
+    "text": "59th Street/University of Chicago",
+    "alternatives": []
+  },
+  "2699": {
+    "text": "55th/56th/57th Street",
+    "alternatives": []
+  },
+  "2700": {
+    "text": "53rd Street/Hyde Park",
+    "alternatives": []
+  },
+  "2701": {
+    "text": "47th Street",
+    "alternatives": []
+  },
+  "2702": {
+    "text": "27th Street",
+    "alternatives": []
+  },
+  "2703": {
+    "text": "23rd Street/McCormick Place",
+    "alternatives": []
+  },
+  "2704": {
+    "text": "18th Street",
+    "alternatives": []
+  },
+  "2705": {
+    "text": "12th Street/Roosevelt Road",
+    "alternatives": []
+  },
+  "2706": {
+    "text": "Van Buren Street",
+    "alternatives": []
+  },
+  "2707": {
+    "text": "Randolph/South Water Street",
+    "alternatives": []
+  },
+  "2708": {
+    "text": "93rd Street/South Chicago",
+    "alternatives": []
+  },
+  "2709": {
+    "text": "87th Street/South Chicago",
+    "alternatives": []
+  },
+  "2710": {
+    "text": "83rd Street/South Chicago",
+    "alternatives": []
+  },
+  "2711": {
+    "text": "Cheltenham",
+    "alternatives": []
+  },
+  "2712": {
+    "text": "Windsor Park",
+    "alternatives": []
+  },
+  "2713": {
+    "text": "South Shore",
+    "alternatives": []
+  },
+  "2714": {
+    "text": "Bryn Mawr",
+    "alternatives": []
+  },
+  "2715": {
+    "text": "Stony Island",
+    "alternatives": []
+  },
+  "2716": {
+    "text": "Blue Island",
+    "alternatives": []
+  },
+  "2717": {
+    "text": "Burr Oak",
+    "alternatives": []
+  },
+  "2718": {
+    "text": "Ashland Avenue",
+    "alternatives": []
+  },
+  "2719": {
+    "text": "Racine Avenue",
+    "alternatives": []
+  },
+  "2720": {
+    "text": "West Pullman",
+    "alternatives": []
+  },
+  "2721": {
+    "text": "Stewart Ridge",
+    "alternatives": []
+  },
+  "2722": {
+    "text": "State Street",
+    "alternatives": []
+  },
+  "2723": {
+    "text": "Joliet",
+    "alternatives": []
+  },
+  "2724": {
+    "text": "Lockport",
+    "alternatives": []
+  },
+  "2725": {
+    "text": "Lemont",
+    "alternatives": []
+  },
+  "2726": {
+    "text": "Willow Springs",
+    "alternatives": []
+  },
+  "2727": {
+    "text": "Summit",
+    "alternatives": []
+  },
+  "2728": {
+    "text": "Antioch",
+    "alternatives": []
+  },
+  "2729": {
+    "text": "Lake Villa",
+    "alternatives": []
+  },
+  "2730": {
+    "text": "Round Lake Beach",
+    "alternatives": []
+  },
+  "2731": {
+    "text": "Prarie Crossing/Libertyville",
+    "alternatives": []
+  },
+  "2732": {
+    "text": "Mundelein",
+    "alternatives": []
+  },
+  "2733": {
+    "text": "Vernon Hills",
+    "alternatives": []
+  },
+  "2734": {
+    "text": "Prarie View",
+    "alternatives": []
+  },
+  "2735": {
+    "text": "Buffalo Grove",
+    "alternatives": []
+  },
+  "2736": {
+    "text": "Wheeling",
+    "alternatives": []
+  },
+  "2737": {
+    "text": "Prospect Heights",
+    "alternatives": []
+  },
+  "2738": {
+    "text": "O'hare Transfer",
+    "alternatives": []
+  },
+  "2739": {
+    "text": "River Grove",
+    "alternatives": []
+  },
+  "2740": {
+    "text": "Aurora",
+    "alternatives": []
+  },
+  "2741": {
+    "text": "Route 59",
+    "alternatives": []
+  },
+  "2742": {
+    "text": "Naperville",
+    "alternatives": []
+  },
+  "2743": {
+    "text": "Lisle",
+    "alternatives": []
+  },
+  "2744": {
+    "text": "Belmont",
+    "alternatives": []
+  },
+  "2745": {
+    "text": "Downers Grove/Main Street",
+    "alternatives": []
+  },
+  "2746": {
+    "text": "Fairview Avenue",
+    "alternatives": []
+  },
+  "2747": {
+    "text": "Westmont",
+    "alternatives": []
+  },
+  "2748": {
+    "text": "Clarendon Hills",
+    "alternatives": []
+  },
+  "2749": {
+    "text": "West Hinsdale",
+    "alternatives": []
+  },
+  "2750": {
+    "text": "Hinsdale",
+    "alternatives": []
+  },
+  "2751": {
+    "text": "Highlands",
+    "alternatives": []
+  },
+  "2752": {
+    "text": "Western Springs",
+    "alternatives": []
+  },
+  "2753": {
+    "text": "LaGrange/Stone Avenue",
+    "alternatives": []
+  },
+  "2754": {
+    "text": "LaGrange Road",
+    "alternatives": []
+  },
+  "2755": {
+    "text": "Congress Park",
+    "alternatives": []
+  },
+  "2756": {
+    "text": "Brookfield",
+    "alternatives": []
+  },
+  "2757": {
+    "text": "Hollywood",
+    "alternatives": []
+  },
+  "2758": {
+    "text": "Riverside",
+    "alternatives": []
+  },
+  "2759": {
+    "text": "Harlem Avenue",
+    "alternatives": []
+  },
+  "2760": {
+    "text": "Berwyn",
+    "alternatives": []
+  },
+  "2761": {
+    "text": "LaVergne",
+    "alternatives": []
+  },
+  "2762": {
+    "text": "Clyde",
+    "alternatives": []
+  },
+  "2763": {
+    "text": "Cicero",
+    "alternatives": []
+  },
+  "2764": {
+    "text": "Halsted",
+    "alternatives": []
+  },
+  "2765": {
+    "text": "Harvard",
+    "alternatives": []
+  },
+  "2766": {
+    "text": "McHenry",
+    "alternatives": []
+  },
+  "2767": {
+    "text": "Woodstock",
+    "alternatives": []
+  },
+  "2768": {
+    "text": "Crystal lake",
+    "alternatives": []
+  },
+  "2769": {
+    "text": "Cary",
+    "alternatives": []
+  },
+  "2770": {
+    "text": "Fox River Grove",
+    "alternatives": []
+  },
+  "2771": {
+    "text": "Barrington",
+    "alternatives": []
+  },
+  "2772": {
+    "text": "Palatine",
+    "alternatives": []
+  },
+  "2773": {
+    "text": "Arlington Park",
+    "alternatives": []
+  },
+  "2774": {
+    "text": "Arlington Heights",
+    "alternatives": []
+  },
+  "2775": {
+    "text": "Mount Prospect",
+    "alternatives": []
+  },
+  "2776": {
+    "text": "Cumberland",
+    "alternatives": []
+  },
+  "2777": {
+    "text": "Des Plaines",
+    "alternatives": []
+  },
+  "2778": {
+    "text": "Dee Road",
+    "alternatives": []
+  },
+  "2779": {
+    "text": "Park Ridge",
+    "alternatives": []
+  },
+  "2780": {
+    "text": "Edison Park",
+    "alternatives": []
+  },
+  "2781": {
+    "text": "Norwood Park",
+    "alternatives": []
+  },
+  "2782": {
+    "text": "Gladstone Park",
+    "alternatives": []
+  },
+  "2783": {
+    "text": "Jefferson Park",
+    "alternatives": []
+  },
+  "2784": {
+    "text": "Irving Park",
+    "alternatives": []
+  },
+  "2785": {
+    "text": "Clybourn",
+    "alternatives": []
+  },
+  "2786": {
+    "text": "Kenosha",
+    "alternatives": []
+  },
+  "2787": {
+    "text": "Winthrop Harbor",
+    "alternatives": []
+  },
+  "2788": {
+    "text": "Zion",
+    "alternatives": []
+  },
+  "2789": {
+    "text": "Waukeegan",
+    "alternatives": []
+  },
+  "2790": {
+    "text": "North Chicago",
+    "alternatives": []
+  },
+  "2791": {
+    "text": "Great Lakes",
+    "alternatives": []
+  },
+  "2792": {
+    "text": "Lake Bluff",
+    "alternatives": []
+  },
+  "2793": {
+    "text": "Palos Heights",
+    "alternatives": []
+  },
+  "2794": {
+    "text": "Fort Sheridan",
+    "alternatives": []
+  },
+  "2795": {
+    "text": "Highwood",
+    "alternatives": []
+  },
+  "2796": {
+    "text": "Highland Park",
+    "alternatives": []
+  },
+  "2797": {
+    "text": "Ravinia",
+    "alternatives": []
+  },
+  "2798": {
+    "text": "Ravinia Park",
+    "alternatives": []
+  },
+  "2799": {
+    "text": "Braeside",
+    "alternatives": []
+  },
+  "2800": {
+    "text": "Glencoe",
+    "alternatives": []
+  },
+  "2801": {
+    "text": "Hubbard Woods",
+    "alternatives": []
+  },
+  "2802": {
+    "text": "Winnetka",
+    "alternatives": []
+  },
+  "2803": {
+    "text": "Indian Hill",
+    "alternatives": []
+  },
+  "2804": {
+    "text": "Kenilworth",
+    "alternatives": []
+  },
+  "2805": {
+    "text": "Wilmette",
+    "alternatives": []
+  },
+  "2806": {
+    "text": "Evanston/Davis Street",
+    "alternatives": []
+  },
+  "2807": {
+    "text": "Evanston/Main Street",
+    "alternatives": []
+  },
+  "2808": {
+    "text": "Evanston/Central Street",
+    "alternatives": []
+  },
+  "2809": {
+    "text": "Main Street",
+    "alternatives": []
+  },
+  "2810": {
+    "text": "Rogers Park",
+    "alternatives": []
+  },
+  "2811": {
+    "text": "Ravenswood",
+    "alternatives": []
+  },
+  "2813": {
+    "text": "Geneva",
+    "alternatives": []
+  },
+  "2814": {
+    "text": "West Chicago",
+    "alternatives": []
+  },
+  "2815": {
+    "text": "Winfield",
+    "alternatives": []
+  },
+  "2816": {
+    "text": "Wheaton",
+    "alternatives": []
+  },
+  "2817": {
+    "text": "College Avenue",
+    "alternatives": []
+  },
+  "2818": {
+    "text": "Glen Ellyn",
+    "alternatives": []
+  },
+  "2819": {
+    "text": "Lombard",
+    "alternatives": []
+  },
+  "2820": {
+    "text": "Villa Park",
+    "alternatives": []
+  },
+  "2821": {
+    "text": "Elmhurst",
+    "alternatives": []
+  },
+  "2822": {
+    "text": "Berkeley",
+    "alternatives": []
+  },
+  "2823": {
+    "text": "Bellwood",
+    "alternatives": []
+  },
+  "2824": {
+    "text": "Melrose Park",
+    "alternatives": []
+  },
+  "2825": {
+    "text": "Maywood",
+    "alternatives": []
+  },
+  "2826": {
+    "text": "River Forest",
+    "alternatives": []
+  },
+  "2827": {
+    "text": "Oak Park",
+    "alternatives": []
+  },
+  "2828": {
+    "text": "Kedzie",
+    "alternatives": []
+  },
+  "2829": {
+    "text": "Ela Road",
+    "alternatives": []
+  },
+  "2830": {
+    "text": "Elburn",
+    "alternatives": []
+  },
+  "2831": {
+    "text": "La Fox",
+    "alternatives": []
+  },
+  "2832": {
+    "text": "Eola Road",
+    "alternatives": []
+  },
+  "2833": {
+    "text": "BN Tollway",
+    "alternatives": []
+  },
+  "2834": {
+    "text": "Romeoville",
+    "alternatives": []
+  },
+  "2835": {
+    "text": "Laraway Road",
+    "alternatives": []
+  },
+  "2836": {
+    "text": "Manhattan",
+    "alternatives": []
+  },
+  "2837": {
+    "text": "95th Street/Longwood",
+    "alternatives": []
+  },
+  "2838": {
+    "text": "Museum Campus/11th Street",
+    "alternatives": []
+  },
+  "2839": {
+    "text": "Gresham",
+    "alternatives": []
+  },
+  "2840": {
+    "text": "Cicero/Grand",
+    "alternatives": []
+  },
+  "2841": {
+    "text": "Rosemont",
+    "alternatives": []
+  },
+  "2842": {
+    "text": "Schiller Park",
+    "alternatives": []
+  },
+  "2843": {
+    "text": "Pingree Road",
+    "alternatives": []
+  },
+  "2844": {
+    "text": "Millennium Station",
+    "alternatives": []
+  },
+  "2845": {
+    "text": "Romeoville",
+    "alternatives": []
+  },
+  "2900": {
+    "text": "BNSF",
+    "alternatives": []
+  },
+  "2901": {
+    "text": "CTA",
+    "alternatives": []
+  },
+  "2902": {
+    "text": "South Shore",
+    "alternatives": []
+  },
+  "2903": {
+    "text": "NICTD",
+    "alternatives": []
+  },
+  "2904": {
+    "text": "Union Pacific",
+    "alternatives": []
+  },
+  "2905": {
+    "text": "Metra",
+    "alternatives": []
+  },
+  "2906": {
+    "text": "The Burlington Northern Santa Fe and Metra",
+    "alternatives": []
+  },
+  "2907": {
+    "text": "The Union Pacific and Metra",
+    "alternatives": []
+  },
+  "2908": {
+    "text": "BNSF Railway",
+    "alternatives": []
+  },
+  "2910": {
+    "text": "Union Pacific North Line",
+    "alternatives": []
+  },
+  "2911": {
+    "text": "Milwaukee District North Line",
+    "alternatives": []
+  },
+  "2912": {
+    "text": "Union Pacific Northwest Line",
+    "alternatives": []
+  },
+  "2913": {
+    "text": "Milwaukee District West Line",
+    "alternatives": []
+  },
+  "2914": {
+    "text": "Union Pacific West Line",
+    "alternatives": []
+  },
+  "2915": {
+    "text": "Rock Island District",
+    "alternatives": []
+  },
+  "2916": {
+    "text": "Metra Electric District",
+    "alternatives": []
+  },
+  "2917": {
+    "text": "Heritage Corridor",
+    "alternatives": []
+  },
+  "2918": {
+    "text": "SouthWest Service",
+    "alternatives": []
+  },
+  "2919": {
+    "text": "North Central Service",
+    "alternatives": []
+  },
+  "2960": {
+    "text": "Your safety and security are our highest priorities",
+    "alternatives": []
+  },
+  "2961": {
+    "text": "You can help us by being observant of your surroundings",
+    "alternatives": []
+  },
+  "2962": {
+    "text": "If you see something, say something",
+    "alternatives": []
+  },
+  "2963": {
+    "text": "Please report any suspicious behavior, or items, to your train crew",
+    "alternatives": []
+  },
+  "2964": {
+    "text": "Together, we can make us all more secure",
+    "alternatives": []
+  },
+  "2965": {
+    "text": "Thank you for using our service",
+    "alternatives": []
+  },
+  "2971": {
+    "text": "Metra continues to be at a heightened state of security awareness",
+    "alternatives": []
+  },
+  "2972": {
+    "text": "Please alert any crew member of una",
+    "alternatives": []
+  },
+  "2973": {
+    "text": "Additionally, please do not leave your possesions unattended at any time",
+    "alternatives": []
+  },
+  "2974": {
+    "text": "Thank you",
+    "alternatives": []
+  },
+  "2975": {
+    "text": "As children head back to school, parents are requested to reinforce the lesson that railroad tracks should never be used as a path or shortcut",
+    "alternatives": []
+  },
+  "2976": {
+    "text": "Please join Metra in reminding everone to Look, Listen, and Live",
+    "alternatives": []
+  },
+  "2978": {
+    "text": "When using our service, always expect a train on any track at any time. Use caution when crossing tracks, and only cross at designated crosswalks or grade crossings. Remember to look, listen, and live.",
+    "alternatives": []
+  },
+  "2980": {
+    "text": "Please note that the priority seating areas are always designated for customers with disabilities",
+    "alternatives": []
+  },
+  "2981": {
+    "text": "On weekends and during off peak service, customers with bicycles may also use this space. You may be required to relinquish your seat for those customers",
+    "alternatives": []
+  },
+  "2982": {
+    "text": "Thank you for your cooperation",
+    "alternatives": []
+  },
+  "2990": {
+    "text": "This is a public safety reminder from operation lifesaver",
+    "alternatives": []
+  },
+  "2991": {
+    "text": "You should always expect a train when approaching a railroad crossing. Any time is train time. Look, listen, and live. Thank you",
+    "alternatives": []
+  },
+  "2992": {
+    "text": "Did you know that railroad tracks are private property? Do not walk, bike, or jog on the tracks. Always use a pedestrian crosswalk to cross tracks. Trespassing is dangerous and illegal. Stay off, stay away, and stay alive.",
+    "alternatives": []
+  },
+  "2993": {
+    "text": "A train hitting your car is like your car running over a soda can. If you see a train coming, do not cross the tracks. Make sure that you don't stop on the tracks: a train always has the right of way",
+    "alternatives": []
+  },
+  "2994": {
+    "text": "Flashing red lights and bells at railroad crossings mean that a train is coming. Whether you are driving or walking, stop immedately, even if the gates are not all the way down. It is not safe to cross the tracks until the lights are no longer flashing",
+    "alternatives": []
+  },
+  "2995": {
+    "text": "Do not stop, pass, or shift on the railroad tracks. Make sure that your car can completely clear the crossing before attempting to cross. Trains overhang the rails by three feet on each side. Being boxed in can cost you your life",
+    "alternatives": []
+  },
+  "2996": {
+    "text": "An operation lifesaver safety blitz will be held at",
+    "alternatives": []
+  },
+  "2999": {
+    "text": "Your attention please, this is a public safety reminder from Metra, the Union Pacific Railroad, the Burlington Northern Santa Fe, and all of Metra's employees and labor organizations. Please, do not walk, bike, or jog on or near railroad tracks. Always cross at the appropriate pedestrian crosswalk. Be safe: always stop, look, and listen. Please convey this message to your children",
+    "alternatives": []
+  },
+  "1_1450266432": {
+    "text": "At this time, please launch your mobile tickets or have your paper tickets on display. Conductors will be around shortly to check all tickets. Thank you",
+    "alternatives": []
+  },
+  "2_1450266432": {
+    "text": "At this time, please launch your mobile tickets or have your paper tickets on display. Conductors will be around shortly to check all tickets. Thank you",
+    "alternatives": []
+  },
+  "30sTestTone": {
+    "text": "BEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEP",
+    "alternatives": []
+  }
 }
