@@ -45,7 +45,7 @@ const saveAudio = async (audioIDs) => {
   try {
     const chunks = [];
     const dest = audioContext.createMediaStreamDestination();
-    const mediaRecorder = new MediaRecorder(dest.stream, { mimeType: 'audio/mpeg' });
+    const mediaRecorder = new MediaRecorder(dest.stream)//, { mimeType: 'audio/mpeg' });
 
     mediaRecorder.ondataavailable = (evt) => {
       // Push each chunk (blobs) in an array
@@ -57,7 +57,7 @@ const saveAudio = async (audioIDs) => {
 
       var url = window.URL.createObjectURL(evt.data);
       a.href = url;
-      a.download = 'export.mp3';
+      a.download = 'export.ogg';
       a.click();
       window.URL.revokeObjectURL(url);
     };
