@@ -1,4 +1,12 @@
 {
+  "period": {
+    "text": ".",
+    "alternatives": []
+  },
+  "comma": {
+    "text": ",",
+    "alternatives": []
+  },
   "1000": {
     "text": "Zero",
     "alternatives": []
@@ -640,11 +648,11 @@
     "alternatives": []
   },
   "1200": {
-    "text": "Please Have Your Tickets Ready For Collection",
+    "text": "Please have your tickets ready for collection",
     "alternatives": []
   },
   "1201": {
-    "text": "If you need to ride beyond the zone limits of your ticket you must notify a member of the train crew, Or A",
+    "text": "If you need to ride beyond the zone limits of your ticket you must notify a member of the train crew, or a",
     "alternatives": []
   },
   "1202": {
@@ -656,19 +664,19 @@
     "alternatives": []
   },
   "1204": {
-    "text": "For Each Additional Zone",
+    "text": "For each additional zone",
     "alternatives": []
   },
   "1205": {
-    "text": "If You Need To Ride Beyond The Zone Limits Of Your Ticket, You Must Nofity The Train Crew, Or A Penalty Will Be Charged In Addition To The Incremental Fare Of",
+    "text": "If you need to ride beyond the zone limits of your ticket, you must nofity the train crew, or a penalty will be charged in addition to the incremental fare of",
     "alternatives": []
   },
   "1210": {
-    "text": "We Have An Urgent Situation Which Requires The Evacuation Of This Train",
+    "text": "We have an urgent situation which requires the evacuation of this train",
     "alternatives": []
   },
   "1211": {
-    "text": "Please Discontinue the use of all cellular phones and computers at this time",
+    "text": "Please discontinue the use of all cellular phones and computers at this time",
     "alternatives": []
   },
   "1212": {
