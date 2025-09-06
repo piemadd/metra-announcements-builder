@@ -30,7 +30,7 @@ const fetchAudio = async (audioIDs) => {
   for (let i = 0; i < uniqueAudioIDs.length; i++) {
     const audioID = uniqueAudioIDs[i];
 
-    if (audioFileData[audioID]) return; //already fetched
+    if (audioFileData[audioID]) continue; //already fetched
 
     let decodedAudio = await fetch(audioInfoDict[audioID].path).then(res => res.arrayBuffer()).then(buffer => audioContext.decodeAudioData(buffer))
     audioFileData[audioID] = decodedAudio;
