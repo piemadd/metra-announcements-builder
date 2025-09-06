@@ -45,7 +45,7 @@ const saveAudio = async (audioIDs) => {
   try {
     const chunks = [];
     const dest = audioContext.createMediaStreamDestination();
-    const mediaRecorder = new MediaRecorder(dest.stream);
+    const mediaRecorder = new MediaRecorder(dest.stream, { mimeType: 'audio/mpeg' });
 
     mediaRecorder.ondataavailable = (evt) => {
       // Push each chunk (blobs) in an array
@@ -57,7 +57,7 @@ const saveAudio = async (audioIDs) => {
 
       var url = window.URL.createObjectURL(evt.data);
       a.href = url;
-      a.download = 'internal.ogg';
+      a.download = 'export.mp3';
       a.click();
       window.URL.revokeObjectURL(url);
     };
@@ -78,7 +78,7 @@ let currentlyPlayingAudio = false;
 const playAudio = async (audioIDs, mediaRecorderDest) => {
   if (currentlyPlayingAudio) return; //only one play at once
   currentlyPlayingAudio = true;
-  
+
   try {
     await fetchAudio(audioIDs);
     for (let i = 0; i < audioIDs.length; i++) {
@@ -102,7 +102,7 @@ const playAudio = async (audioIDs, mediaRecorderDest) => {
 const App = () => {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState([]);
-  const [audioBlocks, setAudioBlocks] = useState([]);
+  const [audioBlocks, setAudioBlocks] = useState(JSON.parse(localStorage.getItem('metraAnnouncementsBuilder') ?? '[]'));
   const fuse = useMemo(() => new Fuse(audioInfoList, {
     includeScore: true,
     shouldSort: true,
@@ -149,18 +149,23 @@ const App = () => {
     setResults(results);
   };
 
+  const setAudioBlocksAndSave = (newArray) => {
+    localStorage.setItem('metraAnnouncementsBuilder', JSON.stringify(newArray));
+    setAudioBlocks(newArray);
+  };
+
   const addAudioBlock = (id) => {
-    setAudioBlocks([...audioBlocks, audioInfoDict[id]]);
+    setAudioBlocksAndSave([...audioBlocks, audioInfoDict[id]]);
     setQuery('');
     setResults([]);
   };
 
-  const deleteAudioBlock = (index) => setAudioBlocks(audioBlocks.filter((block, i) => i != index));
+  const deleteAudioBlock = (index) => setAudioBlocksAndSave(audioBlocks.filter((audio, i) => i != index));
 
   const deleteAllAudioBlocks = () => {
     if (audioBlocks.length == 0) return;
     if (!confirm('This will delete ALL audio blocks and cannot be reversed. Continue?')) return;
-    setAudioBlocks([]);
+    setAudioBlocksAndSave([]);
   };
 
   return (
@@ -189,17 +194,17 @@ const App = () => {
           />
           {results.length > 0 ? (
             <select
-            id='searchResultsHolder'
-            size={Math.min(10, results.length)}
-            onChange={(e) => addAudioBlock(e.target.value)}
+              id='searchResultsHolder'
+              size={Math.min(10, results.length)}
+              onChange={(e) => addAudioBlock(e.target.value)}
             >{results.slice(0, 10).map((result) => {
-                return <option
-                  value={result.item.id}
-                  title={result.item.text}
-                  onClick={(e) => addAudioBlock(e.target.value)}
-                >[{result.item.id}] {result.item.text}
-                </option>
-              })}
+              return <option
+                value={result.item.id}
+                title={result.item.text}
+                onClick={(e) => addAudioBlock(e.target.value)}
+              >[{result.item.id}] {result.item.text}
+              </option>
+            })}
             </select>
           ) : null}
         </div>
