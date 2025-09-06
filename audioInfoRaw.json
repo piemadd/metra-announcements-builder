@@ -3,6 +3,10 @@
     "text": ".",
     "alternatives": []
   },
+  "colon": {
+    "text": ":",
+    "alternatives": []
+  },
   "comma": {
     "text": ",",
     "alternatives": []

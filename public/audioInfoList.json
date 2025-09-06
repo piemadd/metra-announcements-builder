@@ -10423,29 +10423,36 @@
     "textLower": "."
   },
   {
-    "id": "comma",
+    "id": "colon",
     "index": 1489,
+    "path": "/announcements/colon.wav",
+    "text": ":",
+    "textLower": ":"
+  },
+  {
+    "id": "comma",
+    "index": 1490,
     "path": "/announcements/comma.wav",
     "text": ",",
     "textLower": ","
   },
   {
     "id": "1_1450266432",
-    "index": 1490,
+    "index": 1491,
     "path": "/announcements/1_1450266432.wav",
     "text": "At this time, please launch your mobile tickets or have your paper tickets on display. Conductors will be around shortly to check all tickets. Thank you",
     "textLower": "at this time, please launch your mobile tickets or have your paper tickets on display. conductors will be around shortly to check all tickets. thank you"
   },
   {
     "id": "2_1450266432",
-    "index": 1491,
+    "index": 1492,
     "path": "/announcements/2_1450266432.wav",
     "text": "At this time, please launch your mobile tickets or have your paper tickets on display. Conductors will be around shortly to check all tickets. Thank you",
     "textLower": "at this time, please launch your mobile tickets or have your paper tickets on display. conductors will be around shortly to check all tickets. thank you"
   },
   {
     "id": "30sTestTone",
-    "index": 1492,
+    "index": 1493,
     "path": "/announcements/30sTestTone.wav",
     "text": "BEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEP",
     "textLower": "beeeeeeeeeeeeeeeeeeeeeeeeeeeeeep"

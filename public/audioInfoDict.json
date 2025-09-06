@@ -8933,6 +8933,12 @@
     "text": ".",
     "textLower": "."
   },
+  "colon": {
+    "id": "colon",
+    "path": "/announcements/colon.wav",
+    "text": ":",
+    "textLower": ":"
+  },
   "comma": {
     "id": "comma",
     "path": "/announcements/comma.wav",
