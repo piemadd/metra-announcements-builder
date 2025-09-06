@@ -25,10 +25,8 @@ let audioContext = new AudioContext();
 
 let audioFileData = {};
 const fetchAudio = async (audioIDs) => {
-  const uniqueAudioIDs = [...new Set(audioIDs)]; // unique audio IDs
-
-  for (let i = 0; i < uniqueAudioIDs.length; i++) {
-    const audioID = uniqueAudioIDs[i];
+  for (let i = 0; i < audioIDs.length; i++) {
+    const audioID = audioIDs[i];
 
     if (audioFileData[audioID]) continue; //already fetched
 
