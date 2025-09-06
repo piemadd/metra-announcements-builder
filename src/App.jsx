@@ -71,6 +71,7 @@ const saveAudio = async (audioIDs) => {
     currentlySavingAudio = false;
   } catch (e) {
     currentlySavingAudio = false;
+    audioFileData = {};
     alert('There was an issue with saving the audio. Please try again.');
   }
 };
@@ -93,6 +94,7 @@ const playAudio = async (audioIDs, mediaRecorderDest) => {
     }
   } catch (e) {
     currentlyPlayingAudio = false;
+    audioFileData = {};
     alert('There was an issue with playing the audio. Please try again.');
   }
 
@@ -188,8 +190,11 @@ const App = () => {
             onChange={(e) => debounce(updateAndExecuteSearch(e.target.value))}
           />
           {results.length > 0 ? (
-            <select id='searchResultsHolder' size={Math.min(10, results.length)}>
-              {results.slice(0, 10).map((result) => {
+            <select
+            id='searchResultsHolder'
+            size={Math.min(10, results.length)}
+            onChange={(e) => addAudioBlock(e.target.value)}
+            >{results.slice(0, 10).map((result) => {
                 return <option
                   value={result.item.id}
                   title={result.item.text}
