@@ -75,6 +75,16 @@ const saveAudio = async (audioIDs) => {
   }
 };
 
+const copyAudioURL = (audioIDs) => {
+  const finalURL = `https://mab.pgm.sh/?load=${audioIDs.join(',')}`;
+
+  if (navigator.share) navigator.share({ url: finalURL });
+  else if (navigator.clipboard) {
+    navigator.clipboard.writeText(finalURL);
+    alert('Copied to clipboard')
+  } else alert(`Your device does not support sharing or copying to the clipboard. You can manually copy the following if so desired: ${finalURL}`)
+};
+
 let currentlyPlayingAudio = false;
 const playAudio = async (audioIDs, mediaRecorderDest) => {
   if (currentlyPlayingAudio) return; //only one play at once
@@ -122,6 +132,8 @@ const App = () => {
     if (!loadParam) return;
 
     setAudioBlocksAndSave(loadParam.split(',').map((id) => audioInfoDict[id]));
+
+    window.location.search = '';
 
   }, [window.location.search])
 
@@ -188,6 +200,7 @@ const App = () => {
         {/*<button>Help</button>*/}
         <button onClick={() => alert("Metra Announcement Builder was built by Piero Maddaleni (piemadd.com) and is open source. The source repository can be viewed at https://github.com/piemadd/metra-announcements-builder")}>About</button>
         <button onClick={() => deleteAllAudioBlocks()}>Clear</button>
+        <button onClick={() => copyAudioURL(audioBlocks.map(audio => audio.id))}>Share</button>
         <button onClick={() => saveAudio(audioBlocks.map(audio => audio.id))}>Export</button>
         <button onClick={() => playAudio(audioBlocks.map(audio => audio.id))}>Play</button>
 
