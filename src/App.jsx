@@ -45,7 +45,7 @@ const saveAudio = async (audioIDs) => {
   try {
     const chunks = [];
     const dest = audioContext.createMediaStreamDestination();
-    const mediaRecorder = new MediaRecorder(dest.stream)//, { mimeType: 'audio/mpeg' });
+    const mediaRecorder = new MediaRecorder(dest.stream, {mimeType: 'audio/ogg'});
 
     mediaRecorder.ondataavailable = (evt) => {
       // Push each chunk (blobs) in an array
@@ -68,6 +68,7 @@ const saveAudio = async (audioIDs) => {
 
     currentlySavingAudio = false;
   } catch (e) {
+    console.log(e)
     currentlySavingAudio = false;
     audioFileData = {};
     alert('There was an issue with saving the audio. Please try again.');
@@ -91,6 +92,7 @@ const playAudio = async (audioIDs, mediaRecorderDest) => {
       await new Promise(r => setTimeout(r, source.buffer.duration * 1000)); // sleep
     }
   } catch (e) {
+    console.log(e)
     currentlyPlayingAudio = false;
     audioFileData = {};
     alert('There was an issue with playing the audio. Please try again.');
