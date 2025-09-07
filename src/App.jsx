@@ -45,7 +45,7 @@ const saveAudio = async (audioIDs) => {
   try {
     const chunks = [];
     const dest = audioContext.createMediaStreamDestination();
-    const mediaRecorder = new MediaRecorder(dest.stream, {mimeType: 'audio/webm;codecs=opus'});
+    const mediaRecorder = new MediaRecorder(dest.stream);
 
     mediaRecorder.ondataavailable = (evt) => {
       // Push each chunk (blobs) in an array
