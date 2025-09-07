@@ -1,5 +1,5 @@
 import Fuse from 'fuse.js';
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import AudioBlock from './components/audioBlock';
 import audioInfoDict from './audioMeta/audioInfoDict.json';
 
@@ -45,7 +45,7 @@ const saveAudio = async (audioIDs) => {
   try {
     const chunks = [];
     const dest = audioContext.createMediaStreamDestination();
-    const mediaRecorder = new MediaRecorder(dest.stream, {mimeType: 'audio/ogg'});
+    const mediaRecorder = new MediaRecorder(dest.stream, {mimeType: 'audio/webm;codecs=opus'});
 
     mediaRecorder.ondataavailable = (evt) => {
       // Push each chunk (blobs) in an array
@@ -115,6 +115,15 @@ const App = () => {
       "textLower"
     ]
   }), [audioInfoList]);
+
+  // loading from URL
+  useEffect(() => {
+    const loadParam = new URLSearchParams(window.location.search).get('load');
+    if (!loadParam) return;
+
+    setAudioBlocksAndSave(loadParam.split(',').map((id) => audioInfoDict[id]));
+
+  }, [window.location.search])
 
   // looks for exact matches. might change in the future for custom voice selection. idk.
   const modifiedSearch = (query) => {
